@@ -52,6 +52,8 @@ This stage often causes errors and requires a stable internet connection. Even i
 
 ## References & Readings
 
-NLTK Toolkit - www.nltk.org
+Python NLTK - www.nltk.org
+
+NLTK Cheatsheet (this is your friend) - https://blogs.princeton.edu/etc/files/2014/03/Text-Analysis-with-NLTK-Cheatsheet.pdf
 
 Sentiment Analysis with Twitter - www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/
