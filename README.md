@@ -11,9 +11,23 @@ Dax Gerts
 
 ## Projects:
 
-#### (ongoing)
+Sentiment mining from journalistic sources
 
-#### (complete)
+### Analysis Tasks
+
+1. Objectivity v. Subjectivity
+
+2. Specific sentiment
+
+### Data Tasks
+
+1. Compile "training" corpora
+
+2. Test different sources
+
+* Full articles from web
+* RSS feeds titles + summaries
+* Twitter news (might be same as RSS)
 
 ## Quickstart:
 
@@ -49,6 +63,18 @@ This stage often causes errors and requires a stable internet connection. Even i
 #### Windows
 
 #### Mac
+
+### Python "Newspaper" Module
+
+The "newspaper" module allows for news articles to be parsed in bulk and transformed directly into plain text with a minimum of effort.
+
+#### Linux Install
+
+```python
+pip install tldextract
+pip install dateutils
+pip install newspaper
+```
 
 ## References & Readings
 
