@@ -8,18 +8,26 @@ New members should make sure to glance over the "quickstart" notes at the bottom
 
 Dax Gerts
 
+## Projects & Files
 
-## Projects:
+### Sentiment mining from journalistic sources
 
-Sentiment mining from journalistic sources
-
-### Analysis Tasks
+* example1.py & example1.pynb are examples of sentiment analysis with NLTK
+* newsagg.py is a news aggregations script
+	* current sources include: CNN, MSNBC, FOX, NPR, AP, & CBS
+	* To do:
+		* (in progress) extract text of recent articles
+		* process raw text in usable form, remove odd characters (ex: '\n','\','u'')
+		* retrieve older articles
+		* initiate multithreading functionality for larger downloads
+		
+#### Analysis Tasks
 
 1. Objectivity v. Subjectivity
 
 2. Specific sentiment
 
-### Data Tasks
+#### Data Tasks
 
 1. Compile "training" corpora
 
@@ -68,13 +76,9 @@ This stage often causes errors and requires a stable internet connection. Even i
 
 The "newspaper" module allows for news articles to be parsed in bulk and transformed directly into plain text with a minimum of effort.
 
-#### Linux Install
+Installation instructions are here: http://newspaper.readthedocs.org/en/latest/user_guide/install.html#install
 
-```python
-pip install tldextract
-pip install dateutils
-pip install newspaper
-```
+*Be warned: there are a lot of dependencies and things can get pretty finicky, if you need help just ask me -Dax*
 
 ## References & Readings
 
