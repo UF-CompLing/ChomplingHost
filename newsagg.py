@@ -11,7 +11,7 @@ def main():
 
 	# Active list of news/media sources
 	
-	sources = ['http://fivethirtyeight.com']
+	sources = ['http://foxnews.com','http://cnn.com','http://msnbc.com','http://cbs.com']
 
 	#sources = ['http://cnn.com','http://foxnews.com',
 	#'http://npr.org','http://msnbc.com','http://cbs.com','www.ap.org',
@@ -25,10 +25,10 @@ def main():
 
 	# Build diction, using url name for keys ex/ 'http://cnn.com' key will be 'cnn'
 	for i in range(len(sources)):
-		papers[re.sub(r'(^https?:\/\/|\.com$|\.org$)','',sources[i])] = newspaper.build(sources[i],memoize_articles=False)
+		key = re.sub(r'(^https?:\/\/|\.com$|\.org$)','',sources[i])
+		papers[key] = newspaper.build(sources[i],memoize_articles=False)
 		# Print number of articles added from "recent" list for logging purposes
-		print(papers.items()[0][0],papers.items()[0][1].size())
-		print(i)
+		print(key,papers[key].size())
 
 	print("Downloading articles (this may take a while)\n...\n...\n...")
 
@@ -49,7 +49,7 @@ def main():
 
 	# Append articles to csv
 	# Prototype format: col(1) = source, col(2) = title, col(3) = authors, col(4) = text
-	with open('papers.csv','wb') as outcsv:
+	with open('papers.csv','a') as outcsv:
 		writer = csv.writer(outcsv)
 		writer.writerow(["Source","Date","Title","Authors","Text","Keywords"])
 		for i in papers:
