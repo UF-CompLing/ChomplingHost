@@ -11,10 +11,10 @@ def main():
 
 	# Active list of news/media sources
 	
-	sources = ['http://foxnews.com','http://cnn.com','http://msnbc.com','http://cbs.com']
+	sources = ['http://cbs.com']
 
 	#sources = ['http://cnn.com','http://foxnews.com',
-	#'http://npr.org','http://msnbc.com','http://cbs.com','www.ap.org',
+	#'http://npr.org','http://msnbc.com','http://cbs.com',
 	#'http://economist.com','http://time.com','http://nytimes.com',
 	#'http://espn.com','http://reuters.com','http://usatoday.com'
 	#'http://bbc.com','http://fivethirtyeight.com']
@@ -33,7 +33,7 @@ def main():
 	print("Downloading articles (this may take a while)\n...\n...\n...")
 
 	# Download all articles via multi-threading
-	news_pool.set([x[1] for x in papers.items()], threads_per_source=1) # Test various thread counts
+	news_pool.set([x[1] for x in papers.items()], threads_per_source=2) # Test various thread counts
 	news_pool.join()
 
 	print("Extracting text from articles \n...\n...\n...")
@@ -44,6 +44,8 @@ def main():
 			#call to "download()" deprecated by news_pool.set & news_pool.join
 			#papers[i].articles[j].download()
 			papers[i].articles[j].parse()
+			#extract keywords
+			papers[i].articles[j].nlp()
 
 	print("Writing new articles to dump file \n...\n...\n...")
 
