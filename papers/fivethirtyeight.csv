@@ -1,5 +1,5 @@
-"","Source","Date","Title","Authors","Text","Keywords"
-"1","fivethirtyeight","2016-02-19 23:59:02+00:00","The Warriors Odds Of Going 73-9","['Kyle Wagner']","As things stand coming out of the All-Star break, the Warriors will probably catch Michael Jordans 1995-96 Bulls, which own the record of 72 wins, and are a little better than a coin flip to pass them.
+Source,Date,Title,Authors,Text,Keywords
+fivethirtyeight,2016-02-19 23:59:02+00:00,The Warriors Odds Of Going 73-9,['Kyle Wagner'],"As things stand coming out of the All-Star break, the Warriors will probably catch Michael Jordans 1995-96 Bulls, which own the record of 72 wins, and are a little better than a coin flip to pass them.
 
 Last time we checked in on Golden States run to 73 was back in December, when the model gave the Warriors a 54 percent chance of getting at least 72 wins and a 44.1 percent chance of at least 73. A little more than two months later, the Warriors are 48-4 and those chances are 69.8 percent to hit 72 and an even 54 percent to reach 73. From where we sit, at least, the Warriors now appear likely to break the 96 Bulls record.
 
@@ -35,8 +35,8 @@ According to nbaminer.com, Curry has scored 10 straight points for his team 10 t
 
 points 55 times (Harden is second with 47, followed by George and Klay Thompson at 30). Probably the most alarming thing about the Warriors this season is how thoroughly they are outpacing the Spurs, another omega-level team stalking around the league. Also according to nbaminer.com, the Warriors average first-quarter margin is +6.04. The Spurs are second at +2.98. The Spurs remain ahead of the Warriors on the overall marks, +12.7 to +12.5, but this difference is more than accounted for in the fourth quarter, where the Warriors are -0.12 and the Spurs are an NBA-best +2.56. The Warriors average margin per overtime period is +4.0, best in the league.
 
-And heres the same display of possible records we generated for the Warriors above, but for the Spurs.","[]"
-"2","fivethirtyeight","2016-02-19 13:16:36+00:00","Significant Digits For Friday, Feb. 19, 2016","['Walt Hickey']","Youre reading Significant Digits, a daily digest of the telling numbers tucked inside the news.
+And heres the same display of possible records we generated for the Warriors above, but for the Spurs.","['league', 'attempts', 'warriors', 'odds', 'threes', 'season', 'second', 'going', 'game', 'team', '739', 'curry', 'straight']"
+fivethirtyeight,2016-02-19 13:16:36+00:00,"Significant Digits For Friday, Feb. 19, 2016",['Walt Hickey'],"Youre reading Significant Digits, a daily digest of the telling numbers tucked inside the news.
 
 3 votes
 
@@ -80,43 +80,8 @@ How much advertisers are expected to spend on podcasts in 2016, according to Zen
 
 If you havent already, you really need to sign up for the Significant Digits newsletter  be the first to learn about the numbers behind the news.
 
-If you see a significant digit in the wild, send it to me: @WaltHickey.","[]"
-"3","fivethirtyeight","2016-02-18 19:24:13+00:00","Marco Rubios Paid Family Leave Plan May Not Work","['Andrew Flowers']","Paid family leave is having a moment. Democrats and now some Republicans, including presidential hopeful Marco Rubio, want to give more workers the opportunity to take time off to care for a new baby or an ailing relative, all while still collecting a paycheck. Yet conservatives face a conundrum: how to expand paid leave without raising taxes or stipulating new regulations. Rubios plan avoids doing so, but at a cost  policy experts say it might not expand paid family leave all that much.
-
-Currently, the United States is an extreme international outlier on lack of paid family leave and is the only Organization for Economic Cooperation and Development country not to mandate paid maternity leave. The Family and Medical Leave Act, passed in 1993, gives employees up to 12 weeks of unpaid leave to care for a new child or a sick family member. Only 13 percent of workers at private companies get paid family leave as a benefit from their employer.
-
-Rubios paid family leave plan has been touted as the first of its kind for a GOP presidential candidate, which makes it significant on its own. The fact that you have a Republican presidential candidate talking about paid family leave is important. It says that there is a widespread recognition of its importance, said Christopher Ruhm, an economist at the University of Virginia and an expert in the economic effects of paid family leave policies.
-
-A majority (67 percent) of American adults support paid time off for workers after the birth of a child, according to an AP-GfK poll conducted last year. Although Democrats are most enthusiastic (with 82 percent in favor), majorities of both Republicans and independents support paid leave, too.
-
-A New York Times/CBS News poll released in June 2015 found similar bipartisan support: 88 percent of Democrats and 71 percent of Republicans favored requiring employers to offer paid leave to parents of new children and employees caring for sick family members.
-
-If you actually talk to voters, this is not a partisan issue  it polls extremely well across partisan lines, said Sarah Jane Glynn, director of womens economic policy at the Center for American Progress.
-
-Of course, support for a policy in theory doesnt equate to support for a specific proposal or piece of legislation, and policymakers disagree on how to expand paid family leave. Most Democrats have rallied behind the stalled FAMILY Act, sponsored by Sen. Kirsten Gillibrand and Rep. Rosa DeLauro. Under their plan, qualified workers would receive up to 12 weeks of paid leave to care for a new child or ailing family member. When on leave, employees would receive 66 percent of their wages, up to about $1,500 per week. They would fund this benefit through a 0.4 percentage point increase in payroll taxes (split evenly between employee and employer) and would set up a separate Social Security-like trust fund to manage it.
-
-The left-leaning Center for American Progress estimates that the FAMILY Act would make 77 percent to 84 percent of all U.S. workers eligible for paid leave; however, the economic effects stemming from higher payroll taxes, both on businesses and employees, are uncertain.
-
-Sanders and Clinton largely agree with the benefits offered in the FAMILY Act, but Clinton disagrees on how to fund them. Clinton, who has pledged not to raise taxes on middle-class households, prefers a tax on wealthier Americans, rather than a broad-based payroll tax increase.
-
-Republicans have their own favored bill: The Strong Families Act, sponsored by Sens. Deb Fischer and Angus King. Rubios plan, which grants nonrefundable tax credits to employers that offer paid family leave, is largely modeled off it.
-
-In a speech unveiling the plan in September at the Values Voter Summit, a gathering of social conservatives, Rubio was clear: his plan would not be a mandate on businesses. Instead, he proposes an employer tax incentive, or a subsidy to encourage businesses to offer paid leave to their employees. Specifically, his plan would give companies a 25 percent nonrefundable tax credit for offering four to 12 weeks of paid leave. In theory, offsetting the cost to businesses for paid leave would push more companies to offer it.
-
-But thats not how employer tax subsidies often work out. As with all tax-credit programs, at the margin it probably wont get most employers to change, said economist Aparna Mathur, who is affiliated with the conservative-leaning American Enterprise Institute. She was skeptical that Rubios plan would compel companies not already doing so to offer paid leave. For many tax incentives, most existing evidence indicates that companies would be doing it anyway, she said, pointing to the research and development tax credit (which lets businesses deduct R&D investments from their tax bill) as an example. In other words, Rubios plan might just subsidize companies that already offer paid family leave. Still, Mathur said it was a step in the right direction.
-
-The Rubio campaign declined to respond specifically to criticism of his plans effectiveness, but communications director Alex Conant said, Marco is open to other proposals, so long as they do not raise taxes or create new mandates.
-
-Syracuse economist Sarah Hamersma studied the effect of two tax credits initiated in the 1990s to encourage businesses to hire disadvantaged workers: the Work Opportunity Tax Credit and Welfare-to-Work credit. Her research concluded that those tax incentives were vastly underutilized and ineffective at encouraging hiring in the targeted groups.
-
-Although her work is frequently cited by critics of Rubios proposal, Hamersma sees the policies as apples and oranges. The employer subsidies she studied were trying to get firms to hire certain people, and the paid family leave credits would be pushing for a more subtle behavioral change, she said; that is, the credits would apply to workers a firm has already hired (and hence pose no risk to the firms using the credit). But because the plan offers only a 25 percent credit, Id be surprised if it made a huge difference in increasing paid family leave coverage, she said.
-
-Whether or not Rubios plan is effective at expanding paid family leave, both conservatives and progressives agree that paid family leave is becoming more popular among voters. Up until this point, paid family leave has been a Democratic issue, but going forward itll be a bipartisan issue, said W. Bradford Wilcox, a sociologist at the University of Virginia who is also affiliated with the American Enterprise Institute.
-
-Rubios proposal is not my favorite, the Center for American Progresss Glynn said, as it falls short of being comprehensive. But that hes talking about it at all reflects a real shift.
-
-Disclosure: The author is a new-ish dad who gratefully took a month of paternity leave.","[]"
-"4","fivethirtyeight","2016-02-21 02:48:34+00:00","Jeb Bushs Path To Defeat Began A Year Ago","['Harry Enten']","The Jeb Bush campaign for president is over. After a disappointing finish in South Carolina on Saturday, he suspended his campaign shortly before 9 p.m., before it was even clear whether he would place fourth or fifth. The news of his exit didnt come as a surprise given his poor showings in the first three contests this primary season, but if you had told most analysts a year ago how the Bush campaign would go, they would have been shocked. So just what the heck happened?
+If you see a significant digit in the wild, send it to me: @WaltHickey.","['digits', 'cap', 'feb', 'trump', 'pope', '19', 'million', 'times', 'water', 'significant', 'calls', '2016', 'business', 'cable']"
+fivethirtyeight,2016-02-21 02:48:34+00:00,Jeb Bushs Path To Defeat Began A Year Ago,['Harry Enten'],"The Jeb Bush campaign for president is over. After a disappointing finish in South Carolina on Saturday, he suspended his campaign shortly before 9 p.m., before it was even clear whether he would place fourth or fifth. The news of his exit didnt come as a surprise given his poor showings in the first three contests this primary season, but if you had told most analysts a year ago how the Bush campaign would go, they would have been shocked. So just what the heck happened?
 
 1. The party didnt decide on Bush
 
@@ -150,8 +115,8 @@ Whether or not Republicans love Trump (and many dont, particularly the strongest
 
 Whatever the reason that other candidates rose or faded, Bush had one big problem at the end of the day: Voters didnt like him. You can see this in the chart below, which shows a three-poll rolling average of Bushs net favorability rating among Republicans, according to YouGov, since Bush entered the campaign.
 
-Bushs net favorability in the latest three-polling average is just +5 percentage points, which is down 25 percentage points from when Bush announced his bid. Its very difficult to win a partys nomination when the number of party members who dont like you is nearly equal to the number that do like you.","[]"
-"5","fivethirtyeight","2016-02-19 12:43:17+00:00","Ted Cruz Has A Huge Math Problem","['David Wasserman']","Ted Cruz may have a knack for the debate stage and a disciplined, data-driven campaign, but he may also have a huge viability problem.
+Bushs net favorability in the latest three-polling average is just +5 percentage points, which is down 25 percentage points from when Bush announced his bid. Its very difficult to win a partys nomination when the number of party members who dont like you is nearly equal to the number that do like you.","['ago', 'party', 'trump', 'campaign', 'voters', 'began', 'kasich', 'hampshire', 'jeb', 'bush', 'bushs', 'defeat', 'path', 'percentage', 'candidates']"
+fivethirtyeight,2016-02-19 12:43:17+00:00,Ted Cruz Has A Huge Math Problem,['David Wasserman'],"Ted Cruz may have a knack for the debate stage and a disciplined, data-driven campaign, but he may also have a huge viability problem.
 
 Cruzs short-term dilemma has received plenty of attention: Donald Trump is on the verge of a big victory in the South Carolina Republican primary, according to most polls, and could easily capture all 50 of the Palmetto States delegates. And if Cruz cant beat Trump in South Carolina  a Southern state with a large proportion of evangelical and very conservative voters, Cruzs supposed bread and butter  what SEC Primary states can he win on Super Tuesday, March 1?
 
@@ -169,8 +134,8 @@ Many pundits had initially predicted that Trump would fade, producing a Cruz-Rub
 
 In fact, if Cruzs prospects are suddenly looking dimmer, the odds of a contested convention in Cleveland may be higher than ever.
 
-Check our our live coverage and results from the South Carolina Republican primary.","[]"
-"6","fivethirtyeight","2016-02-21 05:16:59+00:00","Trump Optimists And Trump Skeptics Are About To Go To War","['Nate Silver']","If you think the arguments between the Republican candidates have been bad, well, you aint seen nothing yet. Pundits, reporters and political analysts are going to really have at it. Two competing theories about the Republican race are about to come to a head, and both of them can claim a victory of sorts after South Carolina.
+Check our our live coverage and results from the South Carolina Republican primary.","['huge', 'trump', 'winnertakeall', 'win', 'ted', 'delegates', 'rubio', 'states', 'cruz', 'cruzs', 'south', 'problem', 'math', 'carolina']"
+fivethirtyeight,2016-02-21 05:16:59+00:00,Trump Optimists And Trump Skeptics Are About To Go To War,['Nate Silver'],"If you think the arguments between the Republican candidates have been bad, well, you aint seen nothing yet. Pundits, reporters and political analysts are going to really have at it. Two competing theories about the Republican race are about to come to a head, and both of them can claim a victory of sorts after South Carolina.
 
 The first theory is simple. It can be summarized in one word: Trump! The more detailed version would argue the following:
 
@@ -206,8 +171,8 @@ A reasonable person might adjudicate the case as follows: Yes, if the Republican
 
 The Trump skeptics might bring up one last line of argument. Theyd claim, perhaps more tentatively than they did before, that GOP elites still have some ability to influence the race. Maybe voters dont care about what the establishment thinks, but individual Republican politicians can still have some influence  South Carolina Gov. Nikki Haleys endorsement of Rubio very probably helped him, for instance. These elites have quite a bit of money to throw around, especially with Bush out. They have some more subtle advantages: They can pack a debate hall with Rubio supporters, for instance. Or they could try to rule by brute force: If the Republican race goes to a contested convention, which is not at all unimaginable, were suddenly back in the pre-1972, smoke-filled-rooms era, although probably with delegates vaping instead of puffing on cigars.
 
-Betting markets, weighing all of this information, see the Republican race thusly: Trump at about 50 percent to win the nomination, Rubio at 40 percent, and the rest of the field at 10 percent. I might quibble here and there, but that seems like basically a sound assessment. Now, lets get back to arguing on Twitter.","[]"
-"7","fivethirtyeight","2016-02-21 04:59:56+00:00","Bernie Sanders Makes Progress, But Hillary Clinton Remains The Favorite","['Harry Enten']","The Democratic contest moved to a not-totally-white contest, and Hillary Clinton had her best showing yet. She won the Nevada caucuses by over 5 percentage points, an important margin in a state whose electorate was only 59 percent white. While there are still some questions about how Latinos voted, Clinton can claim tremendous support from black voters heading into South Carolina and Super Tuesday.
+Betting markets, weighing all of this information, see the Republican race thusly: Trump at about 50 percent to win the nomination, Rubio at 40 percent, and the rest of the field at 10 percent. I might quibble here and there, but that seems like basically a sound assessment. Now, lets get back to arguing on Twitter.","['republican', 'trump', 'optimists', 'polls', 'delegates', 'rubio', 'race', 'skeptics', 'theyd', 'pretty', 'war', 'south']"
+fivethirtyeight,2016-02-21 04:59:56+00:00,"Bernie Sanders Makes Progress, But Hillary Clinton Remains The Favorite",['Harry Enten'],"The Democratic contest moved to a not-totally-white state, and Hillary Clinton had her best showing yet. She won the Nevada caucuses by over 5 percentage points, an important margin in a state whose electorate was only 59 percent white. While there are still some questions about how Latinos voted, Clinton can claim tremendous support from black voters heading into South Carolina and Super Tuesday.
 
 According to the entrance poll in Nevada, Clinton won black voters 76 percent to 22 percent. To put that in context, Clintons margin is only slightly smaller than Barack Obamas 83 percent to 14 percent win with black voters in the 2008 Nevada caucuses. While the result wasnt unexpected given that pre-election polls showed Clinton dominant with black voters, Sanders spent a lot of money on television in the state. That Sanders couldnt close the gap with black voters with a big advertising push is a very ominous sign for his campaign.
 
@@ -219,8 +184,8 @@ But whether he won them or not, Sanders was clearly competitive with Latinos, wh
 
 But in some ways Sanders has already won something: The Democratic electorate turning out in 2016 is more liberal than the one that turned out in the partys last competitive primary eight years ago. Democratic voters in Iowa, New Hampshire and Nevada this year were far more likely to describe themselves as liberal than they were in 2008. In Nevada, 70 percent of Democrats said they were liberal compared to just 45 percent in 2008. Sixty-eight percent of Democratic voters identified as liberal in Iowa and New Hampshire.
 
-But even with a more liberal electorate, Clinton was able to carry the day. Nevada is likely to be the first in a string of victories for her campaign.","[]"
-"8","fivethirtyeight","2016-02-19 13:00:28+00:00","Will Someone Be Sitting In Your Seat On The Plane?","['Oliver Roeder']","Welcome to The Riddler. Every week, I offer up a problem related to the things we hold dear around here  math, logic and probability. These problems, puzzles and riddles come from lots of top-notch puzzle folks around the world, including you, the readers. And readers, I need more riddles! Email me with submissions.
+But even with a more liberal electorate, Clinton was able to carry the day. Nevada is likely to be the first in a string of victories for her campaign.","['sanders', 'latinos', 'clinton', 'voters', 'remains', 'favorite', 'hillary', 'won', 'black', 'democratic', 'progress', '2008', 'nevada', 'makes', 'south', 'bernie']"
+fivethirtyeight,2016-02-19 13:00:28+00:00,Will Someone Be Sitting In Your Seat On The Plane?,['Oliver Roeder'],"Welcome to The Riddler. Every week, I offer up a problem related to the things we hold dear around here  math, logic and probability. These problems, puzzles and riddles come from lots of top-notch puzzle folks around the world, including you, the readers. And readers, I need more riddles! Email me with submissions.
 
 Youll find this weeks puzzle below.
 
@@ -256,8 +221,8 @@ Before we go, heres an embed of a tweet of a video taken of computer screen disp
 
 And here is last weeks Riddler, come to life! (Hat tip to reader Patrick Hanna.)
 
-God bless the Internet. Have a super cool weekend!","[]"
-"9","fivethirtyeight","2014-10-16 16:33:09+00:00","The Playoff Implications Of Every Game For Every NFL Team","['Reuben Fischer-baum', 'Mike Beuoy']","Playoff Implications is a phrase you usually dont hear until the final weeks of the NFL regular season, but almost every regular season game has playoff implications. In the early going, however, it can be difficult to figure out just what those implications are, and how much is riding on each game.
+God bless the Internet. Have a super cool weekend!","['correct', 'riddler', 'puzzle', 'random', 'dog', 'seat', 'plane', 'duck', 'answer', 'sitting', 'solution', 'weeks']"
+fivethirtyeight,2014-10-16 16:33:09+00:00,The Playoff Implications Of Every Game For Every NFL Team,"['Reuben Fischer-baum', 'Mike Beuoy']","Playoff Implications is a phrase you usually dont hear until the final weeks of the NFL regular season, but almost every regular season game has playoff implications. In the early going, however, it can be difficult to figure out just what those implications are, and how much is riding on each game.
 
 Most other major sports leagues play a greater number of regular season games, and thus the playoff picture in those sports evolves in a more incremental fashion. The pace can seem glacial at times for MLB, and inevitable and foregone when it comes to the NBA. But with just 16 regular season games, the NFLs playoff landscape can change dramatically over the course of a single Sunday afternoon. And these tectonic shifts take place throughout the season, not just in those final weeks of December.
 
@@ -279,8 +244,8 @@ Now that we have a ranking system that assigns a probability to each future regu
 
 Instead of focusing on each teams overall playoff odds, lets instead focus on each game. Well use the New Orleans-Detroit game as an example. Of the 50,000 simulation runs, there were precisely 30,180 (or about 60 percent) that resulted in a Lions victory, and 19,820 that resulted in a Saints victory. Lets now focus on those two samples in isolation. Of the 30,180 simulations in which the Saints lost, they made the playoffs 8,273 times, or 27 percent. Of the 19,820 simulations in which the Saints won, they made the playoffs 9,172 times, or 46 percent. Put simply, the Saints playoff odds could swing by a not-insignificant 19 percent as a result of their game against the Lions. (The games with the most cumulative influence on the overall playoff picture (leverage) are listed at left).
 
-We can repeat this calculation for every game and every team. The result: A measure of how much every game matters to every team.","[]"
-"10","fivethirtyeight","2016-02-20 00:47:45+00:00","Whats Changed in Harper Lees Hometown Since Mockingbird","['Anne Li', 'Ben Casselman']","Maycomb was an old town, but it was a tired old town when I first knew it.
+We can repeat this calculation for every game and every team. The result: A measure of how much every game matters to every team.","['season', 'nfl', 'implications', 'game', 'saints', 'teams', 'playoff', 'regular', 'games', 'team', 'times', 'market']"
+fivethirtyeight,2016-02-20 00:47:45+00:00,Whats Changed in Harper Lees Hometown Since Mockingbird,"['Anne Li', 'Ben Casselman']","Maycomb was an old town, but it was a tired old town when I first knew it.
 
 Thats how Scout Finch describes the steadfastly Southern setting of Harper Lees beloved novel, To Kill A Mockingbird. Maycomb is a fictional city, but its based on Lees birthplace and childhood home of Monroeville, in Monroe County, Alabama, where Lee died on Friday.
 
@@ -292,8 +257,8 @@ Overall, Monroe County is still poor, with a 29.2 percent poverty rate and a 41.
 
 The racial income gap appears to have narrowed but remains wide. In 2014, median household income for white families in Monroe County was $38,188; for blacks it was barely half that, at $18,584. Equivalent data isnt available at a county or even state level for 1960, but in the South as a whole, the typical non-white family earned about $20,000 in 1959, one third of the amount earned by the typical white family.
 
-And finally, what ultimately shattered Scouts childhood innocence was the wrongful jury conviction of Tom Robinson, a black man, whom Atticus defended. Data on wrongful conviction  and certainly the kind of willfully wrongful prosecution depicted in the book  doesnt exist, for obvious reasons. But more than half a century after To Kill A Mockingbird was published, issues of race and the criminal justice system remain central to the national conversation, and there have been widespread protests around the country at the way black citizens are treated by the law enforcement system. According to data from the Sentencing Project, the incarceration rate of blacks in Alabama is three and a half times as high as it is for whites. That disparity is among the smallest in the country.","[]"
-"11","fivethirtyeight","2016-02-20 18:30:26+00:00","How Nevada Democrats And South Carolina Republicans Voted","[]","Never miss the best of FiveThirtyEight.
+And finally, what ultimately shattered Scouts childhood innocence was the wrongful jury conviction of Tom Robinson, a black man, whom Atticus defended. Data on wrongful conviction  and certainly the kind of willfully wrongful prosecution depicted in the book  doesnt exist, for obvious reasons. But more than half a century after To Kill A Mockingbird was published, issues of race and the criminal justice system remain central to the national conversation, and there have been widespread protests around the country at the way black citizens are treated by the law enforcement system. According to data from the Sentencing Project, the incarceration rate of blacks in Alabama is three and a half times as high as it is for whites. That disparity is among the smallest in the country.","['whats', 'lees', 'harper', 'hometown', 'changed', 'county', 'rate', 'book', 'mockingbird', 'half', 'poverty', 'white', 'data', 'alabama', 'monroe', 'black']"
+fivethirtyeight,2016-02-20 18:30:26+00:00,How Nevada Democrats And South Carolina Republicans Voted,[],"Never miss the best of FiveThirtyEight.
 
 The best of FiveThirtyEight, delivered to you.
 
@@ -307,8 +272,8 @@ Our take on all things 2016. Significant Digits (Daily)
 
 Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
 
-Highlights from the past week.","[]"
-"12","fivethirtyeight","2016-02-19 12:00:07+00:00","No One Can Agree How Much The Presidential Candidates Tax Plans Will Cost","['Ben Casselman']","This is In Real Terms, a column analyzing the week in economic news. Were still experimenting with the format, so tell us what you think. Email me or drop a note in the comments. And thank you for all the great feedback so far!
+Highlights from the past week.","['week', 'submittingyou', 'best', 'carolina', 'republicans', 'youthanks', 'fivethirtyeight', 'shortlypolitics', 'weeklyhighlights', 'democrats', 'significant', 'things', 'nevada', 'roundup', 'south', 'voted']"
+fivethirtyeight,2016-02-19 12:00:07+00:00,No One Can Agree How Much The Presidential Candidates Tax Plans Will Cost,['Ben Casselman'],"This is In Real Terms, a column analyzing the week in economic news. Were still experimenting with the format, so tell us what you think. Email me or drop a note in the comments. And thank you for all the great feedback so far!
 
 This week, the Tax Policy Center  a well-regarded non-partisan think tank  issued a report saying that Ted Cruzs tax plan would cost the government $8.6 trillion over the next 10 years. Which is fine, except that back in October, the Tax Foundation  a well-regarded nonpartisan think tank  looked at the same plan and estimated it would cost $768 billion. Even in the world of federal budgets, an $8 trillion gap is a lot of money.
 
@@ -364,11 +329,11 @@ Marshall Steinbaum and Kavya Vaghul find that student-loan delinquencies disprop
 
 Jared Bernstein and Ben Spielberg say the U.S. isnt ready for the next recession. (I agree!)
 
-CLARIFICATION: A headline on a chart in an earlier version of this post referred imprecisely to work stoppages as worker protests. The chart shows both strikes and lockouts by management.","[]"
-"13","fivethirtyeight","2015-11-25 16:02:30+00:00","The Scientist Trying To Reverse Extinctions (Think Jurassic Park)","[]","What if extinctions were only temporary? Yes, were talking Jurassic Park-level science. Its called de-extinction, and Dr. Mike Archer, a paleontologist, is trying to make it happen.
+CLARIFICATION: A headline on a chart in an earlier version of this post referred imprecisely to work stoppages as worker protests. The chart shows both strikes and lockouts by management.","['sanders', 'plans', 'economists', 'tax', 'analysis', 'think', 'economic', 'cost', 'candidates', 'plan', 'policy', 'agree', 'presidential', 'economy']"
+fivethirtyeight,2015-11-25 16:02:30+00:00,The Scientist Trying To Reverse Extinctions (Think Jurassic Park),[],"What if extinctions were only temporary? Yes, were talking Jurassic Park-level science. Its called de-extinction, and Dr. Mike Archer, a paleontologist, is trying to make it happen.
 
-The Case for De-Extinction, the latest in the Collectors series from ESPN Films and FiveThirtyEight, follows Archer as he collects bones, DNA and the vital data of the extinct Tasmanian Tiger. Archer hopes that he can restore nature to a more pristine state. But, to paraphrase Ian Malcolm, even if we can bring back Eden, that doesnt mean we should.","[]"
-"14","fivethirtyeight","2016-02-19 19:54:36+00:00","Non-Stars Like Channing Frye Are The Best Kind Of Trade Deadline Pickup","['Neil Paine']","Unlike last year, the 2016 NBA trade deadline was a bit of a snoozer. Nineteen players were dealt on Thursday, deadline day itself  the 12th-most since 1987. In the traditionally busy two weeks leading up to the cutoff, however, only seven others were moved, which means the raw activity around this years deadline was basically average. Quality wasnt exactly bursting out over quantity, either. As a group, the traded players averaged almost exactly zero wins above replacement per 82 games this season, the eighth-lowest rate among trade deadlines since 87. (Of course, it could be worse  sometimes an entire crop of trade targets can average out well below the replacement level, as happened in 1992.)
+The Case for De-Extinction, the latest in the Collectors series from ESPN Films and FiveThirtyEight, follows Archer as he collects bones, DNA and the vital data of the extinct Tasmanian Tiger. Archer hopes that he can restore nature to a more pristine state. But, to paraphrase Ian Malcolm, even if we can bring back Eden, that doesnt mean we should.","['temporary', 'reverse', 'jurassic', 'talking', 'deextinction', 'extinctions', 'park', 'vital', 'tiger', 'tasmanian', 'state', 'scientist', 'archer', 'yes', 'trying', 'think']"
+fivethirtyeight,2016-02-19 19:54:36+00:00,Non-Stars Like Channing Frye Are The Best Kind Of Trade Deadline Pickup,['Neil Paine'],"Unlike last year, the 2016 NBA trade deadline was a bit of a snoozer. Nineteen players were dealt on Thursday, deadline day itself  the 12th-most since 1987. In the traditionally busy two weeks leading up to the cutoff, however, only seven others were moved, which means the raw activity around this years deadline was basically average. Quality wasnt exactly bursting out over quantity, either. As a group, the traded players averaged almost exactly zero wins above replacement per 82 games this season, the eighth-lowest rate among trade deadlines since 87. (Of course, it could be worse  sometimes an entire crop of trade targets can average out well below the replacement level, as happened in 1992.)
 
 Most of this years trades were made by teams jockeying for playoff position (Charlottes Courtney Lee pickup comes to mind), collecting future assets (Detroit snagged Tobias Harris and Donatas Motiejunas in separate deals this week) or dumping disgruntled players (Markieff Morris and Lance Stephenson were sent packing by the Suns and Clippers, respectively). These are the kinds of incremental moves that help a franchise in the long run. But nobody would characterize them as blockbusters, and hardly any involved the handful of teams that have a chance to win the 2015-16 NBA championship.
 
@@ -388,15 +353,15 @@ Furthermore, because trades involve, uh, trade-offs between teams, sometimes sta
 
 Likewise, the biggest boost in defensive efficiency belongs to last years Jazz, which improved by 10.6 points per 100 possessions on D after jettisoning defensive sieve Enes Kanter and installing Stifle Tower Rudy Gobert as starting center ... but also got worse by 2.3 points per 100 possessions on offense. Thats still a clear win for the Jazz, but it shows that blockbuster deadline trades rarely come off perfectly clean, without some downside to go with the benefits.
 
-Which brings us back to Frye and the Cavaliers. Fryes no superstar  his wins added are modest despite his impressive RPM because he logged only 17 minutes a night in Orlando, a number that isnt likely to increase given Clevelands existing frontcourt situation. But hes in whats historically been a sweet spot for deadline pickups: Hes coming to an existing title contender at very little cost, where hell be asked to fill a specific (yet important) role. There are no guarantees on the NBA trade market, but low-risk/moderate-reward moves like the one the Cavs made to grab Frye are often the deadline deals most associated with solid playoff outcomes.","[]"
-"15","fivethirtyeight","2015-02-18 12:48:04+00:00","Every NBA Teams Chance Of Winning In Every Minute Across Every Game","['Allison Mccann', 'Mike Beuoy']","Can you summarize the NBA season in one chart? With 794 games, more than 152,000 possessions and some 372,000 plays, probably not, but weve given it a shot. What you see above is the 2014-15 seasons win probabilities, summarized. At any point in an NBA game, each team has a probability of winning based on the time remaining, the score and the situation (i.e. after a made shot, shooting foul, etc.). In the chart, each teams in-game win probability is averaged over each minute of regulation time. Its like watching a win-loss record develop in real time.
+Which brings us back to Frye and the Cavaliers. Fryes no superstar  his wins added are modest despite his impressive RPM because he logged only 17 minutes a night in Orlando, a number that isnt likely to increase given Clevelands existing frontcourt situation. But hes in whats historically been a sweet spot for deadline pickups: Hes coming to an existing title contender at very little cost, where hell be asked to fill a specific (yet important) role. There are no guarantees on the NBA trade market, but low-risk/moderate-reward moves like the one the Cavs made to grab Frye are often the deadline deals most associated with solid playoff outcomes.","['channing', 'nonstars', 'missed', '22', 'frye', 'kind', 'trade', 'lost', 'pickup', 'deadline', 'playoffs', 'nba', 'teams', 'round', 'best']"
+fivethirtyeight,2015-02-18 12:48:04+00:00,Every NBA Teams Chance Of Winning In Every Minute Across Every Game,"['Allison Mccann', 'Mike Beuoy']","Can you summarize the NBA season in one chart? With 794 games, more than 152,000 possessions and some 372,000 plays, probably not, but weve given it a shot. What you see above is the 2014-15 seasons win probabilities, summarized. At any point in an NBA game, each team has a probability of winning based on the time remaining, the score and the situation (i.e. after a made shot, shooting foul, etc.). In the chart, each teams in-game win probability is averaged over each minute of regulation time. Its like watching a win-loss record develop in real time.
 
 The win probability model that provides the foundation of the chart uses data from 13 NBA seasons (2000 to 2012). The model is not based on simulations, but rather it does its best to reflect how NBA games are actually played, won and lost.
 
 One of our favorite findings: The Golden State Warriors and Atlanta Hawks share a similar win-loss record, but theyve taken different paths to get to that point. The Warriors have shown more dominance throughout games, often building early, insurmountable leads. The Hawks, in contrast, dont pull away until the fourth quarter.
 
-Let us know about your own discoveries in the comments below.","[]"
-"16","fivethirtyeight","2015-12-16 16:21:19+00:00","The High School Football Coach Who Never Punts","[]","Never miss the best of FiveThirtyEight.
+Let us know about your own discoveries in the comments below.","['shot', 'probability', 'win', 'chart', 'game', 'teams', 'record', 'chance', 'games', 'warriors', 'seasons', 'nba', 'winning', 'winloss', 'minute']"
+fivethirtyeight,2015-12-16 16:21:19+00:00,The High School Football Coach Who Never Punts,[],"Never miss the best of FiveThirtyEight.
 
 The best of FiveThirtyEight, delivered to you.
 
@@ -410,8 +375,8 @@ Our take on all things 2016. Significant Digits (Daily)
 
 Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
 
-Highlights from the past week.","[]"
-"17","fivethirtyeight","2016-02-18 21:17:42+00:00","The Pope Is Way More Popular Than Donald Trump","['Leah Libresco', 'Nate Silver']","Donald Trump took a break from threatening to sue rival candidates on Thursday and appears to be trying to start a holy war with Pope Francis instead. Trump may not care about any resulting eternal judgment, but he might have reason to worry about worldly opinion: Pope Francis has a net +53 favorability rating among Americans, while Trump has a net -27 favorability rating.
+Highlights from the past week.","['week', 'submittingyou', 'school', 'coach', 'things', 'football', 'fivethirtyeight', 'high', 'shortlypolitics', 'weeklyhighlights', 'punts', 'significant', 'roundup', 'best', 'youthanks']"
+fivethirtyeight,2016-02-18 21:17:42+00:00,The Pope Is Way More Popular Than Donald Trump,"['Leah Libresco', 'Nate Silver']","Donald Trump took a break from threatening to sue rival candidates on Thursday and appears to be trying to start a holy war with Pope Francis instead. Trump may not care about any resulting eternal judgment, but he might have reason to worry about worldly opinion: Pope Francis has a net +53 favorability rating among Americans, while Trump has a net -27 favorability rating.
 
 True, Pope Francis is somewhat less popular with Republicans than among Americans overall. But hes still reasonably well-liked. In a CNN poll in September, 56 percent of Republicans had a favorable view of Pope Francis as compared to 21 percent with an unfavorable one. Francis had +20 net favorability rating even among self-described tea-party supporters.
 
@@ -427,8 +392,8 @@ STATE WINNER AMONG CATHOLICS (2008) CATHOLIC SHARE OF GOP ELECTORATE (2008) New 
 
 But although the Catholic-heavy states fall later, they could prove important to the delegate math. Many of their delegates are awarded on a winner-take-most (as in New York, where 46 percent of the Republican electorate was Catholic in 2008) or winner-take-all (as in New Jersey, Wisconsin and Pennsylvania) basis. So if Trump doubles down on his fight with the pope, he could wind up paying a price as he seeks to expand his coalition beyond his enthusiastic base  particularly given that he may already have a relatively low ceiling on his support. In 2008, another competitive primary (and one with more comprehensive exit polling than 2012), Catholics were an important part of John McCains coalition, and theyre a group that a candidate like Marco Rubio (who is Catholic) or John Kasich could come to rely upon this year.
 
-Plus its just plain inaccurate to complain, as Trump did, that for a religious leader to question a persons faith is disgraceful. For someone whose titles include Vicar of Jesus Christ and Successor of the Prince of the Apostles, questioning and clarifying other peoples faith is pretty much the job description.","[]"
-"18","fivethirtyeight","2014-03-17 19:50:22+00:00","Fear Not, Readers: We Have RSS Feeds","['Carla Correa']","Update (March 28): Our readers have spoken, and we listened. We now have a catch-all RSS feed: http://fivethirtyeight.com/all/feed. This feed will deliver all FiveThirtyEight content.
+Plus its just plain inaccurate to complain, as Trump did, that for a religious leader to question a persons faith is disgraceful. For someone whose titles include Vicar of Jesus Christ and Successor of the Prince of the Apostles, questioning and clarifying other peoples faith is pretty much the job description.","['catholics', 'trump', 'pope', 'catholic', 'voters', 'romney', 'mccain', 'donald', 'trumps', 'way', 'popular', '2008', 'francis']"
+fivethirtyeight,2014-03-17 19:50:22+00:00,"Fear Not, Readers: We Have RSS Feeds",['Carla Correa'],"Update (March 28): Our readers have spoken, and we listened. We now have a catch-all RSS feed: http://fivethirtyeight.com/all/feed. This feed will deliver all FiveThirtyEight content.
 
 The much-decried shutdown of Google Reader last summer didnt end the demand for RSS aggregation  especially among our core audience. Soon after the relaunch of FiveThirtyEight on Monday, tweets rolled in asking about RSS/ATOM feeds. Among them:
 
@@ -454,8 +419,8 @@ Nate Silvers posts: http://fivethirtyeight.com/contributors/nate-silver/feed/
 
 Note: The same format as Nates feed (first name-last name in the URL) can be used for all other FiveThirtyEight contributors.
 
-Need an RSS reader? I like the smartphone- and tablet-friendly Feedly.","[]"
-"19","fivethirtyeight","2016-02-19 20:26:15+00:00","Everyone Still Reads To Kill A Mockingbird","['Hayley Munguia']","On Friday, the mayors office in Monroeville, Alabama, announced that Harper Lee, author of the 1960 Pulitzer Prize-winning novel To Kill a Mockingbird and its controversy-plagued 2015 sequel Go Set A Watchman, had died at age 89. A look at the numbers behind Lees greatest work bear out its prominent place in American culture.
+Need an RSS reader? I like the smartphone- and tablet-friendly Feedly.","['feed', 'used', 'features', 'chad', 'readers', 'url', 'posts', 'fivethirtyeight', 'reader', 'feeds', 'fear', 'rss']"
+fivethirtyeight,2016-02-19 20:26:15+00:00,Everyone Still Reads To Kill A Mockingbird,['Hayley Munguia'],"On Friday, the mayors office in Monroeville, Alabama, announced that Harper Lee, author of the 1960 Pulitzer Prize-winning novel To Kill a Mockingbird and its controversy-plagued 2015 sequel Go Set A Watchman, had died at age 89. A look at the numbers behind Lees greatest work bear out its prominent place in American culture.
 
 In 2012, the Fordham Institute, an education policy think tank, surveyed 484 high school English teachers about which books they assigned. According to the groups study, Mockingbird was taught by more ninth- and 10th-grade teachers  35 percent of them  than any other book of fiction listed. It also tops most works in other categories, including poetry and plays. Mockingbird beats the most-taught works of Mark Twain, Shakespeare or John Steinbeck. The only reading material that topped it was Martin Luther King Jr.s I Have A Dream speech, which was taught by 38 percent of teachers in those grades.
 
@@ -471,8 +436,8 @@ The seasonality of the search data hints at the link between the books popularit
 
 The May 2013 spike in searches for The Great Gatsby is no doubt tied to the release of Baz Luhrmanns film adaptation. But even with that factored in, To Kill a Mockingbird still wins the search game over time; until 2012, Lees novel was the most-searched of the five, and on average since 2004, its still been searched about 10 percent more often than Fitzgeralds.
 
-The data on Lees influence is clear, but it really just tells us what we already know: By grappling with racial injustice in American society  an issue that we still struggle with  Harper Lees work endures, and will continue to do so for many years to come.","[]"
-"20","fivethirtyeight","2016-02-18 20:06:40+00:00","Talking To The Terriers At The Westminster Dog Show","['Jody Avirgan']","Dog show people are very obsessive about record keeping, luckily for us.
+The data on Lees influence is clear, but it really just tells us what we already know: By grappling with racial injustice in American society  an issue that we still struggle with  Harper Lees work endures, and will continue to do so for many years to come.","['college', 'lees', 'assigned', 'reads', 'books', 'kill', 'teachers', 'mockingbird', 'taught', 'data', 'book']"
+fivethirtyeight,2016-02-18 20:06:40+00:00,Talking To The Terriers At The Westminster Dog Show,['Jody Avirgan'],"Dog show people are very obsessive about record keeping, luckily for us.
 
 Subscribe: iTunes | Download | RSS | Video
 
@@ -488,8 +453,8 @@ The American Kennel Club, which is the governing body for dog shows and whose me
 
 If youre a fan of Whats The Point, subscribe on iTunes, and please leave a rating/review  that helps spread the word to other listeners. And be sure to check out our sports show Hot Takedown as well. Have something to say about this episode, or have an idea for a future show? Get in touch by email, on Twitter, or in the comments.
 
-Whats The Points music was composed by Hrishikesh Hirway, host of the Song Exploder podcast. Download our theme music.","[]"
-"21","fivethirtyeight","2016-02-19 18:31:45+00:00","The Same Four Operas Are Performed Over And Over","['Brian Wise']","The Metropolitan Opera announced its 2016-17 schedule this week, and it still cant quit its old standbys. Just three days into its new season, which starts in September, the Met will have already returned to its most-performed work: Puccinis La Boheme. About a month after that, Verdis Aida will take the stage. Two-and-a-half months after that: Bizets Carmen. The three most-performed works in Metropolitan Opera history will all appear next season, as is so often the case.
+Whats The Points music was composed by Hrishikesh Hirway, host of the Song Exploder podcast. Download our theme music.","['podcast', 'episode', 'club', 'terriers', 'dog', 'westminster', 'talking', 'download', 'save', 'terrier', 'shows', 'breeds']"
+fivethirtyeight,2016-02-19 18:31:45+00:00,The Same Four Operas Are Performed Over And Over,['Brian Wise'],"The Metropolitan Opera announced its 2016-17 schedule this week, and it still cant quit its old standbys. Just three days into its new season, which starts in September, the Met will have already returned to its most-performed work: Puccinis La Boheme. About a month after that, Verdis Aida will take the stage. Two-and-a-half months after that: Bizets Carmen. The three most-performed works in Metropolitan Opera history will all appear next season, as is so often the case.
 
 Opera types call them the ABCs for the letters in their titles  and because theyre staples of opera repertories. When you add in the fourth-most-performed opera in Met history, Verdis La Traviata, which will also be staged next season, those four operas will account for nearly a quarter of all the Mets performances next season  even though 22 other operas are being mounted. That top tier of operas are a class unto themselves: Company archives show that a season rarely goes by without them. You can see that below in the chart, which compares those top-tier operas with others being performed next season.
 
@@ -505,8 +470,8 @@ In September, the Met reported that houses were, in aggregate, 74 percent full d
 
 The Met hopes to see newcomers become the confirmed opera lovers of tomorrow, but creating a path from La Boheme to an arcane gem by Handel or a premiere by Nico Muhly is not a simple proposition. If theres a way forward, it involves a healthy opera ecosystem in which the old favorites, lesser-known operas and contemporary works co-exist and opera-goers are steered from one to the next.
 
-Once youve seen Mimis death scene in La Boheme for the umpteenth time, its nice to know theres something else to see every now and then.","[]"
-"22","fivethirtyeight","2014-11-21 17:46:32+00:00","Skeptical Football: Patriots vs. Cardinals And An Interactive History Of The NFL","['Benjamin Morris']","The first 10 games of the NFL season are its exposition period  we get to know the characters and themes that we expect to see develop as the race to the playoffs unfolds. This year, like nearly every other in the past decade, the New England Patriots refusal to regress to the mean is a central storyline.
+Once youve seen Mimis death scene in La Boheme for the umpteenth time, its nice to know theres something else to see every now and then.","['la', 'opera', 'season', 'company', 'met', 'operas', 'history', 'performed', 'works', 'bohme', 'theres']"
+fivethirtyeight,2014-11-21 17:46:32+00:00,Skeptical Football: Patriots vs. Cardinals And An Interactive History Of The NFL,['Benjamin Morris'],"The first 10 games of the NFL season are its exposition period  we get to know the characters and themes that we expect to see develop as the race to the playoffs unfolds. This year, like nearly every other in the past decade, the New England Patriots refusal to regress to the mean is a central storyline.
 
 Remember back when the Patriots were 0-1 and faced a must-win in Week 2? Well, they won. Then in Week 4 they dropped to 2-2, and the end of an era was supposedly nigh. Except no. Pats will be Pats, and now theyve won their last six games en route to the best record in the AFC. That streak has included comfortable wins against the Cincinnati Bengals (who at one point projected to have the best record), the surprisingly strong Buffalo Bills, and Peyton Manning and Andrew Luck. (The Patriots are also tied with the Green Bay Packers for a league-leading point differential). And according to my colleague Neil Paine, the Patriots are really a second-half team. I shudder to think.
 
@@ -608,8 +573,8 @@ Its perhaps even more valuable to see Wilson in action with the Seahawks struggl
 
 Reminder: If you tweet questions to me @skepticalsports, there is a non-zero chance that Ill answer them here.
 
-Charts by Reuben Fischer-Baum.","[]"
-"23","fivethirtyeight","2016-02-19 17:14:43+00:00","Whats At Stake In The South Carolina Republican Primary","['Nate Silver']","This article includes polls through noon Friday; check out our primary forecast page for updates.
+Charts by Reuben Fischer-Baum.","['week', 'skeptical', 'football', 'won', 'win', 'nfl', 'cardinals', 'game', 'vs', 'patriots', 'lot', 'team', 'line', 'interactive', 'history']"
+fivethirtyeight,2016-02-19 17:14:43+00:00,Whats At Stake In The South Carolina Republican Primary,['Nate Silver'],"This article includes polls through noon Friday; check out our primary forecast page for updates.
 
 Weve been inundated with polls: South Carolina polls, Nevada polls, national polls, general election polls. In fact, there are so many polls that you can tell yourself pretty much any story you like about the Republican presidential primary. Is Ted Cruz surging? Theres a poll for that. Is Cruz stalling out? Theres a poll for that too. Have you heard about the poll showing a Ben Carson comeback? OK, I made that one up. But earlier this week, you could find a poll with John Kasich in second place in South Carolina, even though he was polling at about 2 percent there earlier this month.
 
@@ -691,8 +656,8 @@ Check our our live coverage and results from the South Carolina Republican prima
 
 Listen to the latest FiveThirtyEight Elections podcast.
 
-Subscribe: iTunes | Download | RSS | Video","[]"
-"24","fivethirtyeight","2016-02-18 23:31:46+00:00","China Is Splurging On Big-Name Soccer Talent","['Andrew Flowers']","In the past few weeks, the Chinese Football Association Super League  the countrys premier professional soccer league  has been on a shopping spree. By the close of the January transfer window, the Chinese Super League had outspent Englands Premier League in the transfer market; the CSL made five of the six largest transfer signings in the 2015-16 window.
+Subscribe: iTunes | Download | RSS | Video","['polls', 'whats', 'trump', 'rubio', 'stake', 'primary', 'forecast', 'bush', 'percentile', 'cruz', 'republican', 'south', 'carolina']"
+fivethirtyeight,2016-02-18 23:31:46+00:00,China Is Splurging On Big-Name Soccer Talent,['Andrew Flowers'],"In the past few weeks, the Chinese Football Association Super League  the countrys premier professional soccer league  has been on a shopping spree. By the close of the January transfer window, the Chinese Super League had outspent Englands Premier League in the transfer market; the CSL made five of the six largest transfer signings in the 2015-16 window.
 
 The biggest splash came when the Jiangsu Suning shelled out $55 million to acquire Alex Teixeira, a star Brazilian midfielder playing in Ukraine, who was hotly pursued by Liverpool. Teixeiras signing gives the CSL the 70th most valuable player in the world.
 
@@ -708,4 +673,49 @@ In some ways, the CSL has taken Major League Soccers model and supercharged it. 
 
 Some macroeconomic context helps, too. Although there are signs that Chinas economy is slowing, and its stock market has been a disaster over the past year, the appetite of Chinese sports fans doesnt seem to be lagging. The slowdown within the Chinese economy seems to be focused on real estate, state-owned enterprises and the stock market. Although growing indebtedness is an issue, Chinese consumers are better positioned than other parts of the Chinese economy. So expect demand for  and spending from  Chinese Super League teams to keep growing. China has a very long way to go before its a top player in international club soccer, but if consumer interest grows at the pace its set, the CSL might just continue to draw stars anyway.
 
-CORRECTION (Feb. 19, 2 p.m.): An earlier version of this article incorrectly described the basis for determining the monetary valuation of players in soccer teams and leagues. That valuation is measured by a Transfermarkt calculation of overall player market values, not just salaries. Transfermarkt makes the calculation based on the estimated value of the player in the transfer market. References in the article to how much teams and leagues have spent on salaries have been changed to the market values of their players.","[]"
+CORRECTION (Feb. 19, 2 p.m.): An earlier version of this article incorrectly described the basis for determining the monetary valuation of players in soccer teams and leagues. That valuation is measured by a Transfermarkt calculation of overall player market values, not just salaries. Transfermarkt makes the calculation based on the estimated value of the player in the transfer market. References in the article to how much teams and leagues have spent on salaries have been changed to the market values of their players.","['csl', 'total', 'talent', 'chinese', 'league', 'transfer', 'million', 'value', 'teams', 'players', 'china', 'market', 'bigname', 'soccer', 'splurging']"
+fivethirtyeight,2016-02-22 12:35:34+00:00,"Significant Digits For Monday, Feb. 22, 2016",['Oliver Roeder'],"Youre reading Significant Digits, a daily digest of the telling numbers tucked inside the news.
+
+0.011 seconds
+
+The Daytona 500 was decided by less than a nose  a nostril? a philtrum?  on Sunday, as Denny Hamlin bested Martin Truex, Jr., in a photo finish. Hamlin won by four feet, or 0.011 seconds, in the tightest finish in the races history. [USA Today]
+
+No. 1
+
+Apparently Adele, like most of the rest of us, doesnt give a damn about the Grammys, and so shook off her technical difficulties there last Monday to regain the No. 1 spot on the Billboard 200, which apparently still exists, with her album 25. Second prize? Second prize is a set of steak knives. Third prize is youre fired. [Rolling Stone]
+
+5 degrees Celsius
+
+I dont care what anyone says, chess is badass. Youve got chess boxing. Youve got grandmaster Maurice Ashley schooling trash talkers in the park. And now youve got these Russian swimmers pushing pieces while sitting in freezing, barely-liquid water. Why? Because chess is badass, thats why. [Daily Mirror]
+
+6 casinos
+
+Doubling down on the plot of Oceans 11, Nevada held its Democratic caucuses on Saturday, including six caucuses simultaneously at six major casinos. In a coup worthy of Danny Ocean himself, Hillary Clinton won them all. Clinton now has 502 delegates to Bernie Sanderss 70 (although, that lead comes mostly from superdelegates). [The Hill]
+
+20th anniversary
+
+David Foster Wallaces doorstop Infinite Jest was first published 20 years ago tomorrow, and  now that folks have finally had the time to finish the 500,000-plus-word novel  publisher Little, Brown and Company is releasing a 20th anniversary edition, with a new introduction and some crowdsourced fan cover art. A whole new generation of wannabe literati will now have something new to tote on the subway, artfully arrange in the background of Tinder photos, and show off in prominent locations on Brooklyn bookshelves. (But seriously, Dave, all love and rest in peace and I promise to stop trying to write like you so much.) [The Millions]
+
+59 points
+
+The Pelicans Anthony Davis went off on Sunday, scoring 59 points in a 111-106 victory over the Pistons. The Brows tally was good for a franchise record and an NBA season high. Oh, and he also had 20 rebounds. So, like, whatd you do Sunday? I had some breakfast  bacon, egg and cheese on a bagel with ketchup and hot sauce  and then wrote this column. And yeah, that was about it. Pretty good Sunday. [Washington Post]
+
+101 endorsement points
+
+Marco Rubio cracked triple digits in our endorsement tracker, which awards 1 point for a congressional endorsement, 5 points for a senatorial endorsement, and 10 points for a gubernatorial endorsement. Rubio now sits comfortably ahead of Ted Cruz, who has 22 points, John Kasich (20), Ben Carson (1), and Donald Trump (0). [FiveThirtyEight]
+
+18,300 applicants
+
+Some 18,300 people applied for NASAs 2017 astronaut class, breaking a nearly 40-year-old record. They will be competing for eight to 14 openings. Sorry, NASA, I am happily otherwise employed. (But, like, just DM for my cell, OK?) [Christian Science Monitor]
+
+$250,000
+
+Taylor Swift donated a quarter of a million dollars to Kesha, who has been fighting a legal battle to get out of a six-album deal with Sony, which brought her into contact with a producer called Dr. Luke, who Kesha alleges drugged and raped her. Dr. Luke was never criminally charged. [E! Online]
+
+$13.6 million
+
+With Super Tuesday just over a week away, the race for the Republican presidential nomination is wide open, as are the candidates purse strings. Ted Cruz is the best-financed candidate. He began this month with $13.6 million cash on hand. [New York Times]
+
+If you havent already, you really need to sign up for the Significant Digits newsletter  be the first to learn about the numbers behind the news.
+
+If you see a significant digit in the wild this week, send it to me: @ollie.","['digits', 'finish', 'feb', 'prize', '22', 'endorsement', 'points', 'chess', 'significant', 'youve', '20', '2016', 'youre']"

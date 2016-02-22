@@ -11,12 +11,12 @@ def main():
 
 	# Active list of news/media sources
 	
-	sources = ['http://cbs.com']
+	sources = ['http://bbc.com']
 
 	#sources = ['http://cnn.com','http://foxnews.com',
 	#'http://npr.org','http://msnbc.com','http://cbs.com',
 	#'http://economist.com','http://time.com','http://nytimes.com',
-	#'http://espn.com','http://reuters.com','http://usatoday.com'
+	#'http://espn.com','http://reuters.com','http://usatoday.com',
 	#'http://bbc.com','http://fivethirtyeight.com']
 
 	papers = {} # Empty dictionary
