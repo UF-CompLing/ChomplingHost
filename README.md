@@ -1,26 +1,26 @@
-# Sentiment Analysis
+# Sentiment Analysis (updated 23 February 2016)
 
 This is the repository for all the work done by the UF Computational Linguistics Club Sentiment Analysis Group
 
-New members should make sure to glance over the "quickstart" notes at the bottom of this page
+*New members should make sure to glance over the "quickstart" notes at the bottom of this page.*
 
 ## Members: (Feel free to add your name)
 
-Dax Gerts
+* Dax Gerts
+* ...
+* ...
+* ...
 
 ## Projects & Files
 
 ### Sentiment mining from journalistic sources
-
-* example1.py & example1.pynb are examples of sentiment analysis with NLTK
-* newsagg.py is a news aggregations script
-	* current sources include: CNN, MSNBC, FOX, NPR, AP, & CBS
-	* To do:
-		* (in progress) extract text of recent articles
-		* process raw text in usable form, remove odd characters (ex: '\n','\','u'')
-		* retrieve older articles
-		* initiate multithreading functionality for larger downloads
-		
+* **example1.py** & **example1.pynb** are examples of sentiment analysis with NLTK
+* **newsagg.py** is a news aggregations script which produces csv files of the sources listed in the code
+	* **NOTE!** This is currently sufficient for building sample data sets
+* **papers/** is the data directory for news sources
+	* Currently contains: BBC, CBS, CNN, 538, FOXNews, MSNBC, NPR
+* **news_updater/** is the beginnings of a continuously running version of **newsagg.py** 
+	
 #### Analysis Tasks
 
 1. Objectivity v. Subjectivity
