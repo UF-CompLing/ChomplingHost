@@ -68,9 +68,9 @@ Alternatively ```nltk.download()``` opens the downloader GUI.
 
 This stage often causes errors and requires a stable internet connection. Even if it appears that the download doesn't finish, make sure to test the packages on existing code to see if they work. Also, the download will likely seem to stall on "panlex lite", but it most likely hasn't, the download just takes a really long time.
 
-#### Windows
+#### Mac/Windows
 
-#### Mac
+Follow the instructions at http://www.nltk.org/install.html
 
 ### Python "Newspaper" Module
 
