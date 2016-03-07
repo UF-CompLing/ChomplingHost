@@ -36,14 +36,19 @@ def main():
 	print("Downloading articles (this may take a while)\n...\n...\n...")
 
 	# Download all articles via multi-threading
-	news_pool.set([x[1] for x in papers.items()], threads_per_source=2) # Test various thread counts
-	news_pool.join()
+	#news_pool.set([x[1] for x in papers.items()], threads_per_source=1) # Test various thread counts
+	#news_pool.join()
 
-	print("Extracting text from articles \n...\n...\n...")
+	#print("Extracting text from articles \n...\n...\n...")
 
 	# Parse all articles
 	for i in papers:
+		print("Downloading articles from ___" + str(i))
+		n = 0
 		for j in range(papers[i].size()):
+			print("Articles downloaded: " + str(n) + " of " + str(papers[i].size))
+			papers[i].articles[j].download()
+			n = n + 1
 			# Parse articles and extract features
 			papers[i].articles[j].parse()
 			papers[i].articles[j].nlp()
