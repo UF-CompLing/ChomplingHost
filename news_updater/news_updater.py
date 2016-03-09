@@ -4,7 +4,7 @@
 
 def main():
 	import newspaper # article download utility
-	from newspaper import news_pool
+	from newspaper import news_pool, Config, Article, Source
 	import re # regex
 	import csv # csv file-formatting
 	import unicodedata # string cleaning
@@ -28,28 +28,27 @@ def main():
 	# Build diction, using url name for keys ex/ 'http://cnn.com' key will be 'cnn'
 	for i in range(len(sources)):
 		key = re.sub(r'(^https?:\/\/|\.com\n$|\.org\n$)','',sources[i])
-		papers[key] = newspaper.build(sources[i],memoize_articles=False)
+		papers[key] = newspaper.build(sources[i])
 		
 		# Print number of articles added from "recent" list for logging purposes
 		print(key,papers[key].size())
 
 	print("Downloading articles (this may take a while)\n...\n...\n...")
 
+	config = Config()
+	config.fetch_images = False
+	
 	# Download all articles via multi-threading
-	#news_pool.set([x[1] for x in papers.items()], threads_per_source=1) # Test various thread counts
-	#news_pool.join()
+	news_pool.set([x[1] for x in papers.items()], threads_per_source=2) # Test various thread counts
+	news_pool.join()
 
-	#print("Extracting text from articles \n...\n...\n...")
+	print("Extracting text from articles \n...\n...\n...")
 
 	# Parse all articles
 	for i in papers:
-		print("Downloading articles from ___" + str(i))
-		n = 0
 		for j in range(papers[i].size()):
-			print("Articles downloaded: " + str(n) + " of " + str(papers[i].size))
-			papers[i].articles[j].download()
-			n = n + 1
 			# Parse articles and extract features
+			print("Processing " + str(i) + " article " + str(j))
 			papers[i].articles[j].parse()
 			papers[i].articles[j].nlp()
 
@@ -61,7 +60,7 @@ def main():
 
 		# Setup aggregate csv writer
 		writer = csv.writer(outcsv)
-		writer.writerow(["Source","Date","Title","Authors","Text","Keywords"])
+		#writer.writerow(["Source","Date","Title","Authors","Text","Keywords"])
 
 		# Traverse sources
 		for i in papers:
