@@ -11,7 +11,7 @@ def main():
 
 	# Active list of news/media sources
 	
-	sources = ['http://bbc.com']
+	sources = ['http://fivethirtyeight.com']
 
 	#sources = ['http://cnn.com','http://foxnews.com',
 	#'http://npr.org','http://msnbc.com','http://cbs.com',
