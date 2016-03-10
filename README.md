@@ -14,13 +14,11 @@ This is the repository for all the work done by the UF Computational Linguistics
 ## Projects & Files
 
 ### Sentiment mining from journalistic sources
-* **example1.py** & **example1.pynb** are examples of sentiment analysis with NLTK
-* **newsagg.py** is a news aggregations script which produces csv files of the sources listed in the code
-	* **NOTE!** This is currently sufficient for building sample data sets
-* **papers/** is the data directory for news sources
-	* Currently contains: BBC, CBS, CNN, 538, FOXNews, MSNBC, NPR
-* **news_updater/** is the beginnings of a continuously running version of **newsagg.py** 
-	
+
+* **news_updater/ version 1.0 is complete!** -Dax: I currently have it running every 15 minutes on my machine, see **papers_master.csv** for hourly updated master file of all articles
+* **papers/** small examples of articles from each source, good for testing models with
+* **examples/** misc. article extraction and analsyis examples
+
 #### Analysis Tasks
 
 1. Objectivity v. Subjectivity
