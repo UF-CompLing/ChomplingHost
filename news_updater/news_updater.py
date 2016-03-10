@@ -28,7 +28,7 @@ def main():
 	# Build diction, using url name for keys ex/ 'http://cnn.com' key will be 'cnn'
 	for i in range(len(sources)):
 		key = re.sub(r'(^https?:\/\/|\.com\n$|\.org\n$)','',sources[i])
-		papers[key] = newspaper.build(sources[i])
+		papers[key] = newspaper.build(sources[i],memoize_articles=True)
 		
 		# Print number of articles added from "recent" list for logging purposes
 		print(key,papers[key].size())
@@ -42,17 +42,7 @@ def main():
 	news_pool.set([x[1] for x in papers.items()], threads_per_source=2) # Test various thread counts
 	news_pool.join()
 
-	print("Extracting text from articles \n...\n...\n...")
-
-	# Parse all articles
-	for i in papers:
-		for j in range(papers[i].size()):
-			# Parse articles and extract features
-			print("Processing " + str(i) + " article " + str(j))
-			papers[i].articles[j].parse()
-			papers[i].articles[j].nlp()
-
-	print("Writing new articles to dump file \n...\n...\n...")
+	print("Extracting text from articles and writing to dump files \n...\n...\n...")
 
 	# Append articles to aggregate and individual csv's
 	# Format: col(1) = source, col(2) = date, col(3) = title, col(4) = authors, col(5) = text, col(6) = keywords
@@ -73,16 +63,28 @@ def main():
 			# Traverse articles in source			
 			for j in range(papers[i].size()):
 
-				# Grab key features
-				title = unicodedata.normalize('NFKD',papers[i].articles[j].title).encode('ascii','ignore')
-				authors = [x.encode('UTF-8') for x in papers[i].articles[j].authors]
-				text = unicodedata.normalize('NFKD',papers[i].articles[j].text).encode('ascii','ignore')
-				date = papers[i].articles[j].publish_date
-				keywords = [x.encode('UTF-8') for x in papers[i].articles[j].keywords]
+				# Parse articles and extract features
+				print("Processing " + str(i) + " article " + str(j+1) + " of " + str(papers[i].size()))
+
+				try:
+					papers[i].articles[j].parse()
+
+					# Grab key features
+					title = unicodedata.normalize('NFKD',papers[i].articles[j].title).encode('ascii','ignore')
+					authors = [x.encode('UTF-8') for x in papers[i].articles[j].authors]
+					text = unicodedata.normalize('NFKD',papers[i].articles[j].text).encode('ascii','ignore')
+					date = papers[i].articles[j].publish_date
+					keywords = [x.encode('UTF-8') for x in papers[i].articles[j].keywords]
+					
+					# Add new row to both single-source and aggregate files
+					ind_writer.writerow([source,date,title,authors,text,keywords])
+					writer.writerow([source,date,title,authors,text,keywords])
+					papers[i].articles[j].nlp()
+
+				except httplib.BadStatusLine:
+					print "httplib.BadStatusLine, no dice"
 				
-				# Add new row to both single-source and aggregate files
-				ind_writer.writerow([source,date,title,authors,text,keywords])
-				writer.writerow([source,date,title,authors,text,keywords])
+				
 
 if __name__ == "__main__":
 	# Suppress "no handlers could be found" message for tldextract
