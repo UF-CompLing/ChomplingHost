@@ -1,6 +1,7 @@
 # Name: News Aggregator (newsagg.py)
 # Author: Dax Gerts
 # Date: 22 February 2016
+# Aggregation script, run regularly to collect and dump raw text of web articles to csv files
 
 def main():
 	import newspaper # article download utility
@@ -25,12 +26,16 @@ def main():
 
 	print("Building papers\n....\n...\n...")
 
+	# Store total and current number of articles for progress metrics
+	total_articles = 0; current_articles = 0
+
 	# Build diction, using url name for keys ex/ 'http://cnn.com' key will be 'cnn'
 	for i in range(len(sources)):
 		key = re.sub(r'(^https?:\/\/|\.com\n$|\.org\n$)','',sources[i])
 		papers[key] = newspaper.build(sources[i],memoize_articles=True)
 		
 		# Print number of articles added from "recent" list for logging purposes
+		total_articles = total_articles + papers[key].size()
 		print(key,papers[key].size())
 
 	print("Downloading articles (this may take a while)\n...\n...\n...")
@@ -64,7 +69,9 @@ def main():
 			for j in range(papers[i].size()):
 
 				# Parse articles and extract features
-				print("Processing " + str(i) + " article " + str(j+1) + " of " + str(papers[i].size()))
+				current_articles += 1
+				print("Processing " + str(i) + " article " + str(current_articles) + " of " + str(total_articles) + " (" + str("{0:.2f}".format((current_articles/float(total_articles)*100),2))
+ + " %)")
 
 				try:
 					papers[i].articles[j].parse()

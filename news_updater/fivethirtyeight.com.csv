@@ -943,3 +943,599 @@ Overall, I think its a close call between Cruz and Kasich having a better shot o
 Rubios chances are hanging by a thread, however. Hell presumably drop out if he loses Florida, but theres an argument that his chances are slim enough in Florida that anti-Trump Republicans would be better off if Rubio dropped out immediately, which would give Cruz and Kasich better chances to win delegates in Ohio, Illinois, Missouri and North Carolina, all of which also vote Tuesday.
 
 Either way, theres likely to be some sort of endgame after March 15. Even if Trump wins both Ohio and Florida, Cruz might run relatively well against him in a one-on-one race from that point forward. Would it be too little and too late, especially with a lot of states in Trumps northeastern base still left to vote? Possibly, but Republican party elites would finally have to make the very choice they were most hoping to avoid.",[]
+fivethirtyeight.com,2016-03-10 21:45:33+00:00,These Are The Phrases Each GOP Candidate Repeats Most,['Milo Beckman'],"Words matter in politics, and those words are chosen carefully. In the age of televised debates, campaigns draft and poll-test talking points. Then, like any good sales team, they hammer them home through the primaries.
+
+When this works, it can brand a candidate or his opponent in the eyes of the electorate  echoes of low-energy might fill Jeb Bushs nightmares until his dying day. And when it doesnt? Well, a different ambitious Floridian knows how that feels.
+
+When Marco Rubio, likely over-prepped and under-slept, dispelled the same fiction three times in one debate, he looked less like a man with a plan and more like an early prototype robo-prez not ready for prime time. He shattered the momentum he needed to consolidate the increasingly frantic anti-Trump coalition and responded by tossing the same barb to Donald Trump at a later debate. No, you repeat yourself, he parried in Houston. The crowd went wild.
+
+So, with the candidates debating again tonight  this time in Miami  which presidential wannabe repeats himself the most? I used transcripts from the first 11 Republican debates to see for myself. I used a metric called tf-idf, pioneered in the 1970s by computational linguist Karen Sparck Jones, to identify which words and phrases each candidate used a surprisingly high number of times. In particular, long, oft-repeated phrases score high, while phrases that other candidates have also said score lower (so that we dont get of the as everyones top phrase). Tf-idf is a measure of relative importance, so a score of 50 doesnt mean anything other than higher than a score of 40.
+
+Beyond highlighting some stone-cold classics  right to keep and bear arms  and quintessential Trumpisms  we dont win  this analysis reveals each candidates verbal tics. Ted Cruz daydreams about the possibilities if I am elected president, while Rubio, fresh off a string of third- and fourth-place victories, predicts the glorious future when Im president. Trump shoots from the hip with I have to say; Cruz betrays his Ivy League past with I would note. And John Kasich ... well, he mostly just talks about his record in Ohio.
+
+But as far as repeating lengthy talking points verbatim, Rubio takes the crown. Chris Christie nailed him for the gauche instant replay, but Rubios been sticking to the script pretty consistently throughout debate season. For example, Rubio used the line to reach more people and change more lives than ever before (in reference to the American Dream) in its entirety four times. Fortunately for Rubio, its harder to notice when theyre not back-to-back.
+
+So it would seem that the numbers confirm the Rubio-bot narrative. I checked which candidate has the most phrases scoring over 20 and found that Rubio has won more than just Minnesota and Puerto Rico.
+
+And, if nothing else, this analysis gives us a statistically rigorous drinking game for tonights debate. Cheers!",[]
+fivethirtyeight.com,2016-03-10 23:56:16+00:00,Donald Trumps Sweeping Statements On Islam Are In Line With GOP Opinions,['Leah Libresco'],"I think Islam hates us.
+
+Thats the sweeping statement Donald Trump made Wednesday, after CNNs Anderson Cooper asked him whether the religion is at war with the West.
+
+Theres a tremendous hatred there, Trump said. We have to get to the bottom of it. When Cooper asked Trump if he really meant to tar all Muslims, Trump shrugged off the question, saying, Youre going to have to figure that out, OK?
+
+So lets try to get to the bottom of it.
+
+According to the 2015 Pew Global Attitudes survey, three of the five nations or territories with the least favorable opinions of the United States are in the Middle East (Russia and Pakistan are the exceptions). Outside of that region, heavily Muslim countries such as Malaysia and Indonesia have anti-U.S. attitudes that are more on the level of Germany (45 percent unfavorable) and France (27 percent), respectively. But even nations that tend to have unfavorable opinions of the United States often fall short of hate.
+
+In a Gallup poll conducted between 2006 and 2010, residents of 39 majority-Muslim countries and regions were asked whether they viewed greater interaction between the Muslim world and the West as a benefit or a threat. In all countries but one (Afghanistan), more people saw closer relationships as a benefit than a harm. In half of the countries and regions surveyed, more than 60 percent of residents saw greater interaction as a benefit and less than 35 percent saw closer ties as a threat.
+
+Muslims around the world clearly hate the Islamic State group. In polls conducted in 11 nations and territories with significant Muslim populations by the Pew Research Center in April and May 2015, the groups unfavorables were even worse than Trumps are among the general electorate. Islamic State drew double-digit favorable ratings in only three nations (Nigeria: 14 percent, Malaysia and Senegal: both 11 percent), and in each of those countries, at least 60 percent of respondents had an unfavorable opinion of Islamic State. Vast majorities of Muslims around the world rejected terrorist tactics such as suicide bombing in a larger Pew survey conducted from 2008 to 2012.
+
+But those facts may not carry much weight with many Republicans. In a survey conducted in January, Pew found that 65 percent of Republicans or those who lean Republican want to hear blunt talk about Islam, even if it includes blanket statements about the faith, while 29 percent prefer that politicians be careful not to criticize the faith as a whole. Only 22 percent of Democrats and those who lean Democratic want politicians to use sweeping statements to criticize Islam, while 70 percent prefer more nuanced approaches.
+
+Republicans may be more willing to use harsh language to describe Islam and Muslims because they believe that language is accurate. In Pews survey, Republicans were twice as likely as Democrats to say that some religions teachings promote violence (32 percent to 15 percent). Republicans were also twice as likely as Democrats to say that most or almost all Muslims in the United States are anti-American (16 percent to 7 percent).
+
+So, when Trump blusters and provokes, some members of his party welcome the lack of nuance. They may continue to see him as speaking the truth that other politicians avoid.",[]
+fivethirtyeight.com,2016-03-11 01:00:03+00:00,CNN Republican Debate: Live Coverage,[],"Never miss the best of FiveThirtyEight.
+
+The best of FiveThirtyEight, delivered to you.
+
+Thanks for submitting!
+
+You should receive a confirmation in your inbox shortly.
+
+Politics Dispatch
+
+Our take on all things 2016. Significant Digits (Daily)
+
+Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
+
+Highlights from the past week.",[]
+fivethirtyeight.com,2016-03-11 01:00:03+00:00,CNN Republican Debate: Live Coverage,[],"Never miss the best of FiveThirtyEight.
+
+The best of FiveThirtyEight, delivered to you.
+
+Thanks for submitting!
+
+You should receive a confirmation in your inbox shortly.
+
+Politics Dispatch
+
+Our take on all things 2016. Significant Digits (Daily)
+
+Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
+
+Highlights from the past week.",[]
+fivethirtyeight.com,2016-03-11 12:00:53+00:00,Is Twitter Making Us More Productive?,['Ben Casselman'],"This is In Real Terms, a column analyzing the week in economic news. Comments? Criticisms? Ideas for future columns? Email me or drop a note in the comments.
+
+Heres how the process of writing this column usually goes: On Monday and Tuesday, I collect potential material  articles, data, academic research  and on Wednesday, I pick a topic. Then I have to start writing, at which point my productivity plummets. I write a sentence; I check my Twitter mentions. I rewrite that sentence; check again. I finish a paragraph; I pick a Twitter fight that occupies me for the next half-hour. Typically I buckle down and start writing in earnest around midnight, which, not coincidentally, is about the time that most of the people I follow stop tweeting and go to bed. (For the record, I checked Twitter 12 times during the writing of this paragraph alone.)
+
+My tendency toward procrastination aside, it would seem the Internet is not good for my productivity. It certainly provides plenty of distractions. But it also provides access to a wealth of information that would be much harder to find otherwise, if I could find it at all. Technologys impact on my efficiency is debatable, but the impact on the quality of my work is clearly positive  this column couldnt exist without the Internet. How should we account for that?
+
+That question  how to measure technologys effect on productivity, the economy, and well-being more broadly  is at the core of a major debate in economics right now. Productivity  in its simplest form, total economic output (gross domestic product) divided by the number of hours people work to produce it  is the central driver of economic growth and a reliable measure of a societys prosperity. The ability to make more stuff with less work is what allows nearly every American to own things  cars, televisions, smartphones  that would have been unimaginable luxuries in an earlier era. Yet by conventional measures, U.S. productivity has been in a slump for a decade  some fear permanently.
+
+Many people in Silicon Valley, though, are skeptical that the productivity slowdown is real. How could it be? We all carry supercomputers in our pockets. We have every map of every neighborhood at our fingertips. We can order pizza from our phones! (OK, weve been able to order pizza from our phones for a long time. But now we can do it without talking to anyone.) Some of those tools are directly useful for work, but even the ones that arent help us use our time more efficiently  which, somewhere down the line, should show up in official productivity statistics. If it doesnt, they argue, thats only because arent measuring productivity right.
+
+In a new paper being presented at the Brookings Institution on Friday, economists David Byrne, John Fernald and Marshall Reinsdorf look at the Silicon Valley argument and firmly reject it. Its true, they say, that official statistics underestimate the impact of technology on economic output. The government routinely understates gains in computing power, for example. But that was also true in the 1990s and early 2000s, before the productivity slump began. In fact, they argue, if we fully accounted for the impact of technology, the recent slowdown would look even worse than it does in the official statistics.
+
+Theres plenty of room to quibble over whether Byrne & co. have accounted for the full impact technology has had on GDP. But the debate between economists and Silicon Valley is only partly about measurement. Its also about what were trying to measure. I dont use Twitter because it makes me more productive. I use Twitter because I enjoy Twitter. Similarly, a billion people a day use Facebook because they enjoy Facebook (or at least find it useful). Consumers have decided that they derive value from these products, but because they dont pay for them, that value isnt captured in GDP.
+
+The authors of the Brookings paper dismiss this free enjoyment as a non-market benefit that is rightly excluded from economic measures. But if the ultimate goal of measuring the economy is to understand peoples welfare, why should it matter whether any money changed hands? Or as University of California, Berkeley, economist Brad DeLong put it this week: If our definitions of output and productivity ignore something that people have decided improves their welfare, that is an indictment of those measures.
+
+Even if we could come up with a way to measure welfare more generally, though, the productivity slump wouldnt necessarily disappear. In a massive new book The Rise and Fall of American Growth, economist Robert Gordon argues that our economic statistics hugely undercount the welfare gains of the 19th and 20th centuries. GDP didnt capture how much better it was to walk on streets that werent covered in horse manure or how much more pleasant the summer is with air conditioning. Compared to the invention of indoor plumbing, electricity and the internal combustion engine, Gordon isnt impressed by Facebook or even the iPhone.
+
+Yes, we are gigantically ahead of where our counterparts were in 1870, but our progress has slowed, Gordon writes. Thats more than a measurement problem.
+
+The robots are coming?
+
+When technology isnt destroying our productivity, its destroying our jobs. Or so youd believe from the seemingly endless stream of the robots are coming! stories published in recent years. So far, though, Americans dont seem too concerned.
+
+According to a new poll from Pew Research Center, roughly two-thirds of Americans think that in 50 years, robots will do much of the work currently done by humans. But an even larger majority believes their own jobs will exist a half-century from now. Only 11 percent of respondents said they were worried about losing their job to automation, far fewer than said they were worried about bad management (26 percent) or about their company finding someone else to do the work for less (20 percent).
+
+Those results might seem like a contradiction, or at least like wishful thinking. But theres a difference between work and a job. Technology quickly changes the way we work  quick, when was the last time you sent a fax?  but it destroys jobs much more slowly. It took 40 years after the invention of the ATM for bank-teller jobs to start disappearing, and automated checkout lanes havent yet made a dent in the number of cashiers.
+
+(Global) recession watch
+
+Recession fears in the U.S. have eased a bit in recent weeks thanks to a strong jobs report and other solid economic data. The rest of the world is a different story, though. In a speech in Washington on Tuesday, David Lipton, the No. 2 official at the International Monetary Fund, warned that the global economy is at risk of derailment. Quoting Winston Churchill, he warned policymakers not to be complacent.
+
+Perhaps Mario Draghi was listening. Draghi, the president of the European Central Bank, on Thursday announced stronger-than-expected measures to jump-start the moribund European economy. The bank cut interests rates, already below zero, even further into negative territory and said it would step up its purchase of bonds. Markets initially cheered, but some experts wonder: If this doesnt work, what does Draghi do then?
+
+Number of the week
+
+Men in Korea get up to 53 weeks of paid paternity leave  but hardly any of them take it. For every 1,000 Korean babies born in 2013, just eight men took any paid parental leave at all, according to data from the OECD.
+
+Tuesday was International Womens Day, so why focus on dads? Because research shows that paternity leave is in many ways just as important for womens equality as maternity leave. If women are the only ones to take time off after having a child, companies are more likely to push women  even women who dont plan to have children  onto a second-tier mommy track. Thats less true if both men and women are likely to take time off. Merely offering men leave isnt enough; men have to take the time, or else employers will continue to treat women differently. Iceland, for example, separates paternal and maternal leave so that men who dont take time off lose the benefit; today, close to a third of all parental leave in Iceland is taken by men. Iceland also ranks at the top of the World Economic Forums gender-equality rankings. The U.S., the only rich country that doesnt offer paid time off for either parent, ranks 28th.
+
+Elsewhere
+
+Emily Badger explains why the poor pay more for toilet paper and what that reveals about poverty in the U.S.
+
+Anne Quito says sexism is holding back female architects.
+
+James Ledbetter asks whether the rise of index funds and similar investments is hurting the economy. (Answer: maybe!)
+
+Former Minnesota Fed President Narayana Kocherlakota argues the Federal Reserve needs to communicate its plans more clearly.",[]
+fivethirtyeight.com,2016-03-11 13:00:05+00:00,"Significant Digits For Friday, March 11, 2016",['Walt Hickey'],"Youre reading Significant Digits, a daily digest of the telling numbers tucked inside the news. Were trying out a new approach, with fewer news items but more detail, so please bear with us.
+
+1 in 3
+
+According to the White House, the share of families who have a hard time affording diapers. A new program will give low-income Americans access to cheaper diapers. [CNN]
+
+21 years old
+
+Californias legislature has voted to raise the age limit on buying tobacco products to 21 from 18. The bill now awaits the governors signature. The legislation would also apply to vapers who use electronic cigarettes, a move that would surely devastate the guy who is somehow walking in front of me every day on the way to work blowing sick clouds. [Associated Press]
+
+59 percent
+
+Percentage of Florida Republicans who think Sen. Marco Rubio should suspend his campaign should he lose in the winner-take-all primary in the state next Tuesday. Sad! [Washington Post/Univision News Poll]
+
+29.0
+
+People are jazzed about this whole democracy thing America has going on right now: 29 percent of eligible voters cast ballots in the states that held primary contests through March 6. Thats the highest level of turnout since 2008, but keep in mind that as we continue through the primary process and the contests potentially become less significant, that share may drop. [Pew Research Center]
+
+1,700 names
+
+A list of purported Islamic State members has been obtained by intelligence agencies, Sky News reports, but theres plenty of reason to be skeptical of the list. It apparently includes tens of thousands of names, but only 1,700 identifiable ones. This is the kind of list where you really want to be sure its legit in case of a false positive, but its a potentially massive intelligence gain for the powers fighting the Islamic State. [The Washington Post]
+
+11,000 amendments
+
+Number of proposed amendments to the U.S. Constitution. Only 27 of those stuck, and many of the rest were really, really dumb. To commemorate the 225th anniversary of the Bill of Rights, the National Archives is apparently pulling everything it has from the HORRIBLE PROPOSED AMENDMENTS, A-F filing cabinet. [The Washington Post]
+
+If you havent already, you really need to sign up for the Significant Digits newsletter  be the first to learn about the numbers behind the news.
+
+If you see a significant digit in the wild, send it to @WaltHickey.",[]
+fivethirtyeight.com,2016-03-11 13:00:33+00:00,Should You Shoot Free Throws Underhand?,"['Oliver Roeder', 'Edited Oliver Roeder']","Welcome to The Riddler. Every week, I offer up a problem related to the things we hold dear around here  math, logic and probability. These problems, puzzles and riddles come from lots of top-notch puzzle folks around the world, including you, the readers. Youll find this weeks puzzle below.
+
+Mull it over on your commute, dissect it on your lunch break, and argue about it with your friends and lovers. When youre ready, submit your answer using the form at the bottom. Ill reveal the solution next week, and a correct submission (chosen at random) will earn a shoutout in this column. Important small print: To be eligible for the shoutout, I need to receive your correct answer before 11:59 p.m. EST on Sunday  have a great weekend!
+
+Before we get to the new puzzle, lets return to last weeks. Congratulations to  Mark van Hoeij  of Tallahassee, Florida, our big winner. You can find a solution to the previous Riddler at the bottom of this post.
+
+Now, heres this weeks Riddler, which comes to us from Po-Shen Loh, a math professor at Carnegie Mellon University, the coach of U.S. International Math Olympiad team and the founder of expii.com.
+
+Hark! The NCAA Tournament starts next week, and the granny shot has reappeared as a free throw technique. Its proponents claim that it improves accuracy because there are fewer moving parts  the elbows and wrists are held more stable, for example, and the move is symmetric because ones arms are, more or less, equal length. Lets find out how effective the granny shot really is.
+
+Consider the following simplified model of free throws. Imagine the rim to be a circle (which well call C) that has a radius of 1, and is centered at the origin (the point (0,0)). Let V be a random point in the plane, with coordinates X and Y, and where X and Y are independent normal random variables, with means equal to zero and each having equal variance  think of this as the point where your free throw winds up, in the rims plane. If V is in the circle, your shot goes in. Finally, suppose that the variance is chosen such that the probability that V is in C is exactly 75 percent (roughly the NBA free-throw average).
+
+But suppose you switch it up, and go granny-style, which in this universe eliminates any possible left-right error in your free throws. Whats the probability you make your shot now? (Put another way, calculate the probability that |Y| < 1.)
+
+Extra credit: Lets offer up a  Coolest Riddler Extension Award . Surely you, dear Riddler readers, can improve on this simple model. Try out some alternate shooting techniques, or introduce some more realistic assumptions, or whatever! Have fun, and submit a description in the form below, or shoot me a link to your work on Twitter. And for some more basketball math, and problem sets of all kinds, check out expii.com.
+
+Need a hint? You can try asking me nicely. Want to submit a puzzle or problem? Email me.
+
+And heres the solution to last weeks Riddler, which was about how to win a hot new game show. It comes to us from Stephen Mellendorf. About a quarter of you are ready for primetime  26.7 percent of your submitted solutions were correct.
+
+The obvious solution is to use a cutoff of 0.5, throwing away your number in exchange for another if its less than 0.5, and keeping it if its greater than that, since that strategy will yield the highest average final number. But that isnt the optimal cutoff.
+
+Let C be the optimal cutoff the players use. The key observation is that if the first number revealed is exactly C, then the probability of winning by keeping C equals the probability of winning by pressing the button again  you are indifferent. We can compute each of these probabilities, keeping in mind that the other player is also using C as their cutoff.
+
+probability player 1 wins by keeping C = probability player 2 gets a number below C for both presses = \(C \cdot C\)
+
+probability player 1 wins by pressing again = (probability player 2 presses again) * (probability player 1 wins by pressing again | player 2 presses again) + (probability player 2 keeps first number) * (probability player 1 wins by pressing again | player 2 keeps first number) = \((C) \cdot (1/2) + (1 - C) \cdot ( (1 - C) \cdot 1/2)\)
+
+As noted above, the above two are equal, so
+
+\(C \cdot C = (C) \cdot (1/2) + (1 - C) \cdot ( (1 - C) / 2)\)
+
+which simplifies to
+
+\(C^2 + C - 1 = 0\)
+
+The quadratic formula gives the solution.
+
+\(C = (\sqrt{5} - 1) / 2 = 0.618034\ldots \)
+
+Note that this cutoff is the golden ratio minus one, known as the golden ratio conjugate. So using the golden ratio gives the best chance to win the gold bullion!
+
+This problem, as usual, yielded some pretty pictures. Zach Wissner-Gross provided this (spoiler-free) illustration of his solution:
+
+A wee bit of game theory in today's #Riddler... @ollie https://t.co/6IAg5A8mdi pic.twitter.com/2wZQAs3z5O  Zach Wissner-Gross (@xaqwg) March 4, 2016
+
+And Christopher Mullan  in the best email Ive received in recent memory, thanks, Chris  sent along what he dubbed the Pringle of Probability:
+
+He also sent a Frown of Probability, not pictured. But hey, smile, its Friday! Im also proud to report that David Sklansky, poker god, correctly solved this problem, although he was not the randomly chosen winner. Sorry, David. Have a super weekend.",[]
+fivethirtyeight.com,2016-03-11 17:16:51+00:00,San Jose Is The Most Forgettable Major American City,['Carl Bialik'],"Whats that California city again? Starts with San, has a million people, near the coast?
+
+Almost everyone can think of San Francisco or San Diego. But San Jose, the nations 10th most populous city, just doesnt jump to mind in the same way.
+
+We know this because nearly half a million people have taken a Sporcle quiz that asks them to name the 100 most populous U.S. cities. Sporcle is a leading provider of brain teasers for procrastinators: Name the 50 states in 10 minutes (a quiz taken more than 15 million times) or the 47 countries of Europe in eight minutes (taken nearly 11 million times).
+
+More than 99 percent of quiz takers name New York as one of the 100 most populous cities, more than any other city. About 90 percent name San Francisco and San Diego. But just two out of three remember San Jose before the allotted 12 minutes is up. That makes it the least named city of any of the 10 most populous ones. And people are more likely to remember much smaller cities, such as Pittsburgh, Cleveland and Cincinnati. I always miss San Jose in these quizzes! one commenter lamented.
+
+Its not just Sporcle. At our request, Googles News Lab sent over U.S. search data since 2004 for the 100 Sporcle cities. The data matched Sporcle extremely closely: The more a city is searched, the more its recalled on the quiz. San Jose ranked 42nd in Google searches.
+
+Sam Liccardo grew up in Saratoga, a suburb of San Jose, before studying at Georgetown and Harvard. He got used to telling people he was from San Jose and having them ask where it was. Its fair to say we dont bat our weight in terms of marketing and reputation, Liccardo, who is now the citys mayor, said in a telephone interview. In some ways its a point of pride for many of us. San Jose is a place where were quite comfortable outperforming and underbragging.
+
+Whats holding San Jose back? It doesnt help that its so close to San Francisco, which gets nine times the number of international visitors and has more than three times the number of hotel beds (even though it has about 150,000 fewer residents). There may be an East Coast bias at work: Cities in Arizona, California, Colorado and Texas all are named less often, on average, than youd expect based on population, while cities in Florida, New York, New Jersey and Massachusetts all outperform their population.
+
+San Jose once saw a Major League Baseball team as a ticket to fame. In 1992, the owners of the Giants announced plans to move their team from San Francisco to San Jose. Susan Hammer, mayor of San Jose at the time, said the teams move would be the next step in this whole effort to make San Jose a major city. That step was never taken: The citys residents voted down a tax increase to build a stadium. And the citys drive to boost its image stalled after the dot-com bust in 2001.
+
+Last year, Team San Jose, a partnership of the citys convention and visitors bureau with hotels and other local organizations, started targeting tourists, something it essentially hadnt been doing at all, Laura Chmielewski, the groups vice president for marketing, said in a telephone interview. I asked her what the pitch was. She cited Silicon Valley innovation, diversity, and the energy of invention and entrepreneurship. Her colleague Ben Roschke, director of business development, said visitors tour garages where tech companies were born, and go to visitor centers at the nearby headquarters of Google and, soon, Apple. Venture capitalists are meeting with skater kids doing billion-dollar deals at the coffee shop, Chmielewski said. This is a future city.
+
+Does that mean that in the future, San Jose can catch up to San Francisco on Google or Sporcle? I dont know that its realistic for us, Roschke said.
+
+Liccardo said he was fine with that, citing San Joses strong standing on lists he said mattered more to him: job growth, patents and future readiness. If San Francisco gets the headlines, they can take the problems that come with those, too, he said.
+
+Heres a list that matters less to Liccardo, showing how San Jose and the 99 other most populous U.S. cities rank in population, Sporcle results and Google search data.
+
+Google search data is from Jan. 1, 2004-Feb. 18, 2016. Sporcle data is from Sept. 26, 2009-Feb. 22, 2016.",[]
+fivethirtyeight.com,2016-03-11 18:23:47+00:00,The Big Ideas From This Years Sloan Conference,['Neil Paine'],"Never miss the best of FiveThirtyEight.
+
+The best of FiveThirtyEight, delivered to you.
+
+Thanks for submitting!
+
+You should receive a confirmation in your inbox shortly.
+
+Politics Dispatch
+
+Our take on all things 2016. Significant Digits (Daily)
+
+Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
+
+Highlights from the past week.",[]
+fivethirtyeight.com,2016-03-11 20:06:22+00:00,Dont Sleep On Illinois And Missouri  They Could Help Make Trump Unstoppable,['David Wasserman'],"March 15 has long looked like the most pivotal date on the GOP primary calendar. And although Florida and Ohio are hogging the spotlight because they are the sites of Marco Rubio and John Kasichs last stands, dont forget that two other states could help Donald Trump become essentially unstoppable in his quest for the nomination: Illinois and Missouri.
+
+Sure, far more delegates were at stake on Super Tuesday (595) than will be awarded March 15 (367), but the Super Tuesday delegates were all awarded proportionally. By the Republican National Committees rules, March 15 is the kickoff of the high-stakes winner-take-all season. Of the five states voting Tuesday  Florida, Illinois, Missouri, North Carolina and Ohio  only North Carolina will truly award its delegates on a proportional basis, making it the least valuable prize of the night.
+
+Florida and Ohio are hyped up not only because of their favorite sons (for good reason), but also because they are the only true winner-take-all states: The Florida winner will claim 99 delegates, and the Ohio winner will claim 66  no ifs, ands or buts. However, Illinois and Missouri could functionally become winner-take-all too. Both states award their delegates on a congressional-district level. So if Trump (or someone else) sweeps their congressional districts, that candidate will win all the delegates. Together, Missouri and Illinois will award 121 delegates  which would go a long way in helping Trump stay on track for the nomination even if he loses either Florida or Ohio.
+
+And so Illinois and Missouri are a big part of the reason Tuesday is such a huge fork in the road. If Trump sweeps Florida, Illinois, Missouri and Ohio, he will have at least 748 delegates and would need to win only 44 percent of all remaining delegates, a remarkably low bar, potentially ending the nomination fight.
+
+If Trump loses Ohio but still wins Florida and sweeps Illinois and Missouri, he would need to win 50 percent of all other remaining delegates, a slightly higher bar but still very doable  and he would probably still be on pace for the nomination according to our delegate targets. But if Trump were to lose both Ohio and Florida, along with, lets say, half of Illinoiss and Missouris districts, he could find himself needing to win 63 percent of remaining delegates to clinch the nomination, a much less plausible goal, considerably raising the odds of a contested convention in Cleveland.
+
+Which of those scenarios is most likely? There havent been any polls of Missouri since August, but considering the states relatively large share of evangelicals (36 percent of the population), it would seem that Ted Cruz would be Trumps main threat in the Show-Me State. But, unlike the last three states Cruz has won (Kansas, Maine and Idaho), Missouri has an open primary  the type of contest Trump has dominated thus far. In fact, Illinois and Missouri are among the relatively few states remaining to vote where the rules permit non-Republicans to vote in the party primary.
+
+Technically, Illinois holds a loophole primary in which district-level delegates will be elected directly on the ballot. But unlike in the loophole primary in Pennsylvania, delegates presidential preferences are stated on the ballot, making it highly likely that the preferred presidential candidate will win all three delegates at stake in a given congressional district. The only recent poll taken in Illinois, a Chicago Tribune survey from the first week of March, showed Trump leading with 32 percent, to 22 percent for Cruz, 21 percent for Rubio and 18 percent for Kasich. A double-digit lead raises the possibility that Trump could sweep most or all of the 18 congressional districts.
+
+Trump currently holds 462 delegates, 43 percent of the 1,065 delegates that have been at stake so far. But up until now, just 5 percent of all GOP delegates (the 50 Trump won in South Carolina) have been awarded on a winner-take-all basis. From March 15 forward, a whopping 64 percent of delegates will be awarded on a winner-take-all basis (39 percent based on statewide winners plus 25 percent based on district-level winners). This means continued Trump pluralities would be more than sufficient to earn him a majority of the 2,472 delegates by June.",[]
+fivethirtyeight.com,2016-03-11 20:44:06+00:00,How To Use Our Delegate Tracker,[],"Never miss the best of FiveThirtyEight.
+
+The best of FiveThirtyEight, delivered to you.
+
+Thanks for submitting!
+
+You should receive a confirmation in your inbox shortly.
+
+Politics Dispatch
+
+Our take on all things 2016. Significant Digits (Daily)
+
+Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
+
+Highlights from the past week.",[]
+fivethirtyeight.com,2016-03-12 16:51:05+00:00,Shane Battier Says Dukies Always Have Two Brackets,"['Hot Takedown', 'Neil Paine']","Subscribe: iTunes | Download | RSS | Video
+
+Welcome to the latest episode of Hot Takedown, FiveThirtyEights sports podcast. This weeks show (March 11, 2016) was recorded in front of a live audience at the MIT Sloan Sports Analytics Conference. Neil Paine donned his Stat Man cape once again to lead a lesson about whether box score statistics in the NBA are outdated. Shane Battier, former NBA player and Duke legend, stopped by to talk about March Madness, how he picks a bracket, and why Duke players werent obsessed over what seed the team was assigned in the tournament when he was in school. Then we talked to Daryl Morey, the general manager of the Houston Rockets, about whether the Rockets struggles this season have pushed him to re-evaluate his team-building strategy. Plus, a significant digit on 17-year-old Mallory Pugh, who is emerging as a star for the U.S. Womens National Team.
+
+Stream the episode by clicking the play button above, or subscribe using one of the podcast clients weve linked to.
+
+If youre a fan of our podcasts, be sure to subscribe on iTunes and leave a rating/review. That helps spread the word to other listeners. And get in touch by email, on Twitter or in the comments. Tell us what you think, send us hot takes to discuss and tell us why were wrong.",[]
+fivethirtyeight.com,2016-03-13 21:41:13+00:00,"From Wallace To Trump, The Evolution of Law And Order",['Julia Azari'],"As the atmosphere inside and outside of Donald Trumps rallies took a violent turn this weekend, the comparisons grew between Trump and two figures from an earlier era of tumult: President Richard Nixon, and George Wallace, the conservative populist politician whose 1968 campaign for president drew on cries for law and order. Trumps language has clearly been harkening back to that tumultuous Vietnam War period, even using the same phrases.
+
+There has to be some decorum, he said in St. Louis on Friday. There has to be some law and order in our country. He has repeatedly referred to his campaign as speaking for the silent majority, echoing Nixons rallying cry to the white middle class. Trumps deliberate choice of words have raised urgent questions about whether he is making a similar racialized appeal.
+
+To put these recent developments in proper context, however, we need to take a look at the evolution of the term law-and-order politics, which did not always contain an exclusively racial message. Law and order as Wallace defined it included a range of cultural as well as racial themes. Historian Dan T. Carter draws this distinction, noting that Wallace supporters were concerned with the erosion of the cultural values that underlay the social system.
+
+In his history of American populism, Michael Kazin also observes that the law-and-order message of that period was related to racism, but not simply an extension of segregationist sentiment. Slovenly and unpatriotic protesters were as much a target of this rhetoric in the 1960s and 70s as were racial minorities, Kazin writes. In other words, the first definition of law and order was closely linked to a broad social context, a reaction to activists who challenged American foreign policy, traditional gender roles, and other aspects of the social order alongside race issues. These questions are specifically evoked by Nixons use of the term silent majority in a speech about Vietnam  the contrast in that speech was drawn between counter-culture protesters and the mass of ordinary Americans still leading orderly and traditional lives.
+
+During that period, even as early as 1968, Nixon and other mainstream politicians sought to draw a distinction between crime and race, making a point of saying that toughness on crime was good for black communities.
+
+Vietnam protesters and unrest at college campuses gradually faded from the national agenda, but crime and its racial subtext stayed on. Concerns about crime played a prominent role in subsequent presidential campaigns, perhaps most famously and vividly with the 1988 Willie Horton ad. Law-and-order politics evolved away from cultural questions and toward a narrower conversation about crime and punishment. This conversation, research shows, has been characterized by avoidance of overt racial terminology but undergirded by an indelible linkage to race.
+
+Investigating the manner and timing of how crime became a political issue, the Yale political scientist Vesla Weaver theorizes that the tough-on-crime movement represents an effort by the losers of the civil rights struggle to redefine the policy debate.
+
+In the 1980s and 1990s, the politics of crime turned distinctly punitive and remained racially coded. Hillary Clintons reference to superpredators when talking about crime (which has come up repeatedly in the current campaign) was made in 1996. On the campaign trail and in office, Bill Clinton worked to shore up his tough on crime credentials. As the legal historian Ian Haney Lopez writes, Clinton flew back to Arkansas to oversee the execution of a mentally impaired black individual, Ricky Ray Rector, and he advocated for a number of federal measures, including federal three strikes law.
+
+Political psychology research suggests that the racially coded messages underlying decades of crime messages worked: Mark Peffley and Jon Hurwitz found that when many whites think of punitive crime policy to deal with violent offenders, they are thinking of black offenders.
+
+In 2016 we have seen the return of protest movements that challenge laws, institutions, and, most recently, the leading candidate for the Republican presidential nomination. Polls show that many Americans are uneasy about the protest politics of the Black Lives Matter movement, and concerned about its potential to inspire violence. Other law-and-order concerns touch on the war on terror and the treatment of suspected terrorists, argue Marc Hetherington and Jonathan Weiler, who have studied the politics of authoritarianism. These themes, of course, have also anchored the Trump movement.
+
+In other words, as many have already observed, coded racial language has given way in 2016 to more overt appeals to resentment and exclusion. As Trump rallies attract protesters who object to these messages, racial tension has fused with the old 1960s definitions of law-and-order politics: disdain for those who question tradition and support for the use of force to keep order. Over the past 50 years, law-and-order politics has evolved to mean different things. The 2016 definition has arrived.",[]
+fivethirtyeight.com,2016-03-14 00:31:00+00:00,How FiveThirtyEight Is Forecasting The 2016 NCAA Tournament,"['Nate Silver', 'Jay Boice']","Welcome to FiveThirtyEights forecasts of the mens and womens NCAA basketball tournaments. Weve been issuing probabilistic March Madness forecasts in some form since 2011, when FiveThirtyEight was just a couple of us writing for The New York Times. While the basics of the system remain the same, we unveil a couple of new wrinkles each year.
+
+Last season, we issued forecasts of the womens tournament for the first time. Our big change for this year is that we wont just be updating our forecasts at the end of each game  but also in real time. If a No. 2 seed is losing to a No. 15 seed, youll be able to see how that could affect the rest of the bracket, even before the game is over.
+
+Live Win Probabilities
+
+Our interactive graphic will include a dashboard that shows the score and time remaining in every game as its played, as well as the chance that each team will win that game. These probabilities are derived using logistic regression analysis, which lets us plug the current state of a game into a model to produce the probability that either team wins the game. Specifically, we used play-by-play data from the past five seasons of Division I NCAA basketball to fit a model that incorporates:
+
+Time remaining in the game
+
+Score difference
+
+Pre-game win probabilities
+
+Which team has possession, with a special adjustment if the team is shooting free throws.
+
+These in-game win probabilities wont account for everything. If a key player has fouled out of a game, for example, his or her teams win probability is probably a bit lower than weve listed. There are also a few places where the model experiences momentary uncertainty: In the handful of seconds between the moment when a player is fouled and the free throws that follow, we use the teams average free-throw percentage. Still, these probabilities ought to do a reasonably good job of showing which games are competitive and which are in the bag.
+
+We built a separate in-game probability model for the womens tournament that works in exactly the same way but uses historical womens data. Thus, well be updating our forecasts live for both the mens and womens tournament.
+
+Elo Ratings
+
+Otherwise, the methodology for our mens forecasts is also largely the same as last year. But weve developed our own computer rating system  Elo  which we include along with the five computer rankings and two human rankings we used previously.
+
+If youve follow FiveThirtyEight, youll know that were big fans of Elo ratings, which weve introduced for the NBA, the NFL and other sports. Weve now applied them for mens college basketball teams dating back to the 1950s, using game data from ESPN, www.sports-reference.com and other sources.
+
+Our methodology for calculating these Elo ratings is highly similar to the one we use for NBA. They rely on relatively simple information  specifically, the final score, home court advantage, and the location of each game. (College basketball teams perform significantly worse when they travel a long distance to play a game.) They also account for a teams conference  at the beginning of each season, a teams Elo rating is regressed toward the mean of other schools in its conference  and whether the game was an NCAA tournament game. Weve found that historically, there are actually fewer upsets in the NCAA tournament than youd expect from the difference in teams Elo ratings, perhaps because the games are played under better and fairer conditions in the tournament than in the regular season. Our Elo ratings account for this, and also weight tournament games slightly higher than regular season ones.
+
+Elo ratings for the 68 teams to qualify for the mens tournament follow below.
+
+RATINGS PROBABILITY OF... TEAM REGION SEED ELO COMPOSITE FINAL 4 CHAMPS Kansas South 1 2097 94.5 45.1% 19.1% North Carolina East 1 2075 93.9 43.6 15.0 Virginia Midwest 1 2052 92.5 30.4 9.8 Michigan State Midwest 2 2078 91.8 33.9 8.9 Oklahoma West 2 1972 90.0 32.0 6.8 Villanova South 2 2045 91.3 22.4 6.4 Kentucky East 4 2014 90.7 15.9 4.4 West Virginia East 3 1956 89.3 16.2 3.4 Purdue Midwest 5 1938 88.7 13.0 2.7 Oregon West 1 2033 88.0 22.6 2.6 Texas A&M West 3 1915 86.8 12.4 2.4 Xavier East 2 1973 87.7 9.9 1.8 Arizona South 6 1953 89.0 6.0 1.8 Duke West 4 1910 87.3 12.1 1.7 Maryland South 5 1876 87.4 6.3 1.3 Indiana East 5 1938 87.4 5.8 1.1 Miami (FL) South 3 1933 87.1 4.9 1.0 Iowa State Midwest 4 1867 86.5 6.4 1.0 Baylor West 5 1837 85.5 6.0 1.0 Texas West 6 1788 84.7 5.9 0.9 Utah Midwest 3 1887 86.6 5.3 0.8 Wichita State South 11 1893 86.6 2.7 0.7 California South 4 1871 86.5 4.0 0.7 Iowa South 7 1904 85.9 3.2 0.6 Vanderbilt South 11 1846 85.6 2.4 0.5 Gonzaga Midwest 11 1916 86.0 3.2 0.5 Wisconsin East 7 1896 84.8 2.9 0.4 Notre Dame East 6 1832 84.4 2.6 0.3 Connecticut South 9 1872 85.3 2.1 0.3 Cincinnati West 9 1794 83.7 3.2 0.3 Butler Midwest 9 1815 84.2 2.5 0.3 Seton Hall Midwest 6 1914 84.5 1.8 0.2 Virginia Commonwealth West 10 1798 83.1 2.2 0.2 Dayton Midwest 7 1788 82.4 1.6 0.1 Syracuse Midwest 10 1772 82.7 1.3 0.1 Pittsburgh East 10 1787 82.3 1.2 0.1 Saint Josephs West 8 1814 81.6 1.1 0.1 Providence East 9 1824 82.5 0.8 0.1 Northern Iowa West 11 1751 80.2 0.8 <0.1 Stephen F. Austin East 14 1824 81.0 0.4 <0.1 Colorado South 8 1756 81.5 0.4 <0.1 Yale West 12 1792 80.2 1.0 <0.1 Texas Tech Midwest 8 1777 81.3 0.4 <0.1 Tulsa East 11 1690 79.9 0.2 <0.1 Michigan East 11 1768 79.6 0.3 <0.1 Southern California East 8 1733 81.4 0.2 <0.1 Arkansas-Little Rock Midwest 12 1734 78.9 0.2 <0.1 South Dakota State South 12 1735 78.6 0.2 <0.1 Temple South 10 1730 78.5 0.2 <0.1 North Carolina-Wilmington West 13 1722 77.7 0.2 <0.1 Oregon State West 7 1740 77.6 0.2 <0.1 Iona Midwest 13 1759 78.2 0.1 <0.1 Green Bay West 14 1667 76.2 0.1 <0.1 Stony Brook East 13 1663 77.1 0.1 <0.1 Chattanooga East 12 1610 76.6 <0.1 <0.1 Hawaii South 13 1737 78.0 <0.1 <0.1 Fresno State Midwest 14 1708 76.6 <0.1 <0.1 Buffalo South 14 1613 75.7 <0.1 <0.1 Cal State Bakersfield West 15 1635 75.0 0.1 <0.1 Middle Tennessee Midwest 15 1638 75.0 <0.1 <0.1 North Carolina-Asheville South 15 1553 74.2 <0.1 <0.1 Weber State East 15 1623 73.3 <0.1 <0.1 Florida Gulf Coast East 16 1544 71.4 <0.1 <0.1 Southern West 16 1392 68.0 <0.1 <0.1 Austin Peay South 16 1477 68.8 <0.1 <0.1 Hampton Midwest 16 1488 68.6 <0.1 <0.1 Holy Cross West 16 1420 66.9 <0.1 <0.1 Fairleigh Dickinson East 16 1417 66.7 <0.1 <0.1 2016 NCAA Tournament Team Ratings
+
+Note, however, that Elo is still just one of six computer rankings that we use for the mens tournament. The other five are ESPNs BPI, Jeff Sagarins predictor ratings, Ken Pomeroys ratings, Joel Sokols LRMC ratings, and Sonny Moores computer power ratings. In addition, we use two human-generated rating systems: the selection committees 68-team S-Curve, and a composite of preseason ratings from coaches and media polls. The eight systems  six computer-generated, and two human-generated  are weighted equally in coming up with a teams overall rating.
+
+Weve calculated Elo ratings for mens teams only. For womens ratings, we rely on the same composite of ratings systems that we used last year. You can find more about the methodology for our womens forecasts here.
+
+As has been the case previously, our ratings are also adjusted for travel distance and (for mens teams only) player injuries. Our injury adjustment has been slightly improved to account for the higher or lower caliber of replacement players on different teams: Stony Brook, for example, wont be able to replace a star player as easily as Kentucky can.
+
+As a final reminder, these forecasts are probabilistic  something especially important to consider in the mens tournament this year when theres about as much parity among teams as weve ever seen. In some sense, every team but the UConn women should be thought of as underdogs to win the tournament this year.
+
+Check out FiveThirtyEights 2016 March Madness Predictions.",[]
+fivethirtyeight.com,2016-03-14 16:34:10+00:00,Making Sense Of An NCAA Tournament Bracket That Makes No Sense,['Neil Paine'],"A year ago, it seemed like the NCAA Tournaments era of parity was under attack. Kentucky had just wrapped up an undefeated regular season and was looking so powerful that the FiveThirtyEight model assigned the Wildcats a 41 percent probability of winning the tourney before it even began. (By comparison, most pre-tournament favorites of recent vintage sported odds roughly twice as long.) It was enough to make some wonder whether superteams like the Wildcats had sucked the equality right out of the sport.
+
+Of course, Kentuckys unbeaten run eventually ended, and its dominance to that point had concealed the overall balance of the field, anyway. Then came this upset-crazy season, with an abnormally mediocre set of top teams and no clear favorite to win it all. Kansas, our most likely champ this year, caught fire down the home stretch, aided in part by a newfound reliance on the 3-pointer, but the Jayhawks still have only a 19 percent shot at the title. Parity has officially delivered its counterpunch.
+
+Our latest model does, however, think theres around a 3 in 4 chance that this years champ will emerge from these eight schools: Kansas, North Carolina, Virginia, Michigan State, Oklahoma, Villanova, Kentucky and West Virginia. Our power ratings also think those are the nations top eight teams  though theyre not all distributed evenly throughout the bracket. Lets take a look at how the committee placed them (and the other 60 tournament-bound teams) in this years field.
+
+COMPUTER RATINGS PROBABILITY OF... SEED TEAM AVG HIGH LOW INJURY 538 RATING +/- SEED FINAL 4 CHAMPS 1 Kansas 94.2 98.2 92.4  94.5  45.0% 19.1% 2 Villanova 92.2 95.2 88.6 -0.3 91.3  22.4 6.4 5 Maryland 86.5 88.2 85.3  87.4 -1 6.3 1.3 6 Arizona 88.8 90.1 87.7 +0.7 89.0 -3 6.0 1.8 3 Miami (FL) 87.9 89.6 86.3  87.1 +1 4.9 1.0 4 California 86.2 87.8 85.3  86.5 +1 4.0 0.7 7 Iowa 86.8 87.9 84.8 -0.2 85.9 -1 3.2 0.6 11 Wichita St. 86.9 88.3 86.1 +0.0 86.6 -6 2.7 0.7 11 Vanderbilt 85.9 87.9 85.0  85.6 -5 2.4 0.5 9 Connecticut 85.7 86.6 84.7  85.4 -2 2.1 0.3 8 Colorado 81.9 83.7 81.2  81.5 +2 0.4 0.0 10 Temple 78.7 80.7 77.3 -0.7 78.5 +2 0.2 0.0 12 SD State 78.8 80.9 74.4  78.6  0.2 0.0 13 Hawaii 80.0 81.0 76.9 -1.2 78.0  0.0 0.0 14 Buffalo 74.9 76.5 73.3  75.7  0.0 0.0 15 UNC Asheville 74.9 76.7 72.2  74.2  0.0 0.0 16 Austin Peay 68.7 71.5 66.1  68.8  0.0 0.0 Team ratings: South
+
+The strongest region in this years tournament boasts what our power ratings consider the nations No. 1 and No. 5 teams  Kansas and Villanova  at its top. But it also contains a whole host of underseeded squads down the seed line, which will probably make for some real carnage in the early rounds. For instance, first four opponents Wichita State and Vanderbilt, both vying for the right to be a lowly 11-seed, would have been seeded five or six slots higher if the committees S-curve had followed our ratings. (Instead, one will be eliminated before the tourney even begins in earnest.) Our model also says that Maryland, Iowa and UConn deserved better seeds and that sixth-seeded Arizona had a case to be moved all the way up to No. 3 on the basis of its talent, now that Kaleb Tarczewski and Allonzo Trier are back at full strength. (Instead, the Wildcats will be mild favorites at best in the first round against either the Shockers or the Commodores.)
+
+As a byproduct of all this wacky seeding, the South will have claimed at least eight of the nations 26 highest-rated teams as victims by the middle of the second weekend, after beginning the tournament with 10. But amid this havoc is also opportunity: Regardless of the Vandy-Wichita victor, seven teams in the region will have at least a 29 percent shot at the Sweet 16 before the round of 64 starts Thursday. With so many solid teams stuffed into such close proximity within the bracket, chalk in the first few rounds would be surprising.
+
+But for all the Souths potential turmoil, Kansas still has the best Final Four probability of any team in the tournament. UConn is a trendy dark horse for those thinking that 2011 will repeat itself, and its possible that Villanova will stand in KUs way. But our ratings consider the Jayhawks the nations top team, and they may be the only No. 1 team this season that played like it deserved the mantle after re-assuming it late in the season.
+
+COMPUTER RATINGS PROBABILITY OF... SEED TEAM AVG HIGH LOW INJURY 538 RATING +/- SEED FINAL 4 CHAMPS 2 Oklahoma 89.8 91.8 86.7  90.0  32.1% 6.8% 1 Oregon 89.0 91.9 87.5 -0.2 88.0 +2 22.6 2.6 3 Texas A&M 88.0 89.3 86.7 -0.1 86.8 +2 12.3 2.3 4 Duke 87.9 90.4 86.0 -1.1 87.3  12.1 1.7 5 Baylor 85.3 86.4 84.1  85.5 +2 6.1 1.0 6 Texas 83.9 84.9 82.7 +0.7 84.7 +1 5.9 0.9 9 Cincinnati 84.4 86.3 82.8  83.7 -1 3.2 0.3 10 VCU 84.0 85.9 83.2 -0.6 82.9 -1 2.1 0.2 8 Saint Josephs 83.0 84.1 82.1  81.7 +2 1.2 0.1 12 Yale 81.6 83.1 78.7 -0.6 80.2 -1 1.0 0.0 11 Northern Iowa 79.7 81.5 78.3  80.2  0.8 0.0 7 Oregon State 80.6 81.7 78.9 -2.8 77.6 +6 0.2 0.0 13 UNC-Wilmington 78.5 80.4 75.4  77.7  0.2 0.0 14 Green Bay 75.7 78.4 74.1  76.2  0.1 0.0 15 CS Bakersfield 75.9 78.4 72.4  75.0  0.1 0.0 16 Southern 67.7 71.7 62.3  68.0  0.0 0.0 16 Holy Cross 66.0 69.4 63.6  66.9  0.0 0.0 Team ratings: West
+
+In the Final Four, the winner of the South  this years strongest region  will face the winner of the West  the weakest region. Our model says top-seed Oregon was tied for the third-most overseeded team of any in the field and is by far the worst of the No. 1s. Second-seeded Oklahoma is rated a bit higher than the Ducks in our numbers, with Texas A&M and Duke in close pursuit. Each of the top four seeds has at least a 12 percent probability of reaching the Final Four.
+
+At a minimum, the West might prove a favorite region for fans of first-round upsets. Our model gives 10th-seeded VCU a 73 percent probability of knocking off No. 7 Oregon State  the best odds it assigns to any lower-seeded team in the round of 64. (Oregon State is the most overseeded team in the field; based on their rating, the Beavers deserved a No. 13 seed.) It also thinks No. 9 Cincinnati has a 60 percent probability of beating eighth-seeded Saint Joes and No. 11 Northern Iowa has a 30 percent chance against Texas. And if, like us, youre a fan of 12-over-5 upsets, it assigns Yale a healthy 39 percent chance of toppling Baylor.
+
+Those Cinderellas may not have much of a chance after pulling their initial upset(s), though, because theres a good amount of separation between the top four seeds and the rest of the field, and making the Sweet 16 will require beating one of those top four teams. After the East, where the top four seeds combine for an 86 percent chance of making the Final Four, the West is the most likely region to have a top-four seed represent it in Houston (79 percent). But, lets face it, we dont know which of those top-four seeds it will be  no region has a smaller spread in Final Four odds among its top four seeds than the West.
+
+COMPUTER RATINGS PROBABILITY OF... SEED TEAM AVG HIGH LOW INJURY 538 RATING +/- SEED FINAL 4 CHAMPS 1 N. Carolina 93.3 96.1 92.0  93.9  43.6% 14.9% 3 W. Virginia 90.2 91.7 88.0  89.3 -1 16.1 3.4 4 Kentucky 90.3 91.1 89.9  90.7 -2 16.0 4.5 2 Xavier 88.2 90.0 86.5  87.7 +1 9.8 1.8 5 Indiana 88.3 89.3 87.4 -0.6 87.4 -1 5.7 1.1 7 Wisconsin 84.3 86.8 82.5  84.8  2.9 0.4 6 Notre Dame 83.8 85.0 82.8  84.4 +2 2.6 0.3 10 Pittsburgh 83.1 84.9 82.2 -0.1 82.3  1.2 0.1 9 Providence 82.6 84.2 81.6  82.5  0.8 0.1 14 S.F. Austin 82.0 84.3 78.8  81.0 -3 0.4 0.0 11 Michigan 82.2 84.4 80.9 -2.5 79.6  0.3 0.0 11 Tulsa 80.2 81.9 78.9 -0.0 79.9  0.2 0.0 8 USC 82.4 83.7 80.9  81.4 +2 0.2 0.0 13 Stony Brook 78.0 79.3 75.4 -0.4 77.1  0.1 0.0 12 Chattanooga 76.6 78.8 72.8  76.6 +2 0.0 0.0 15 Weber State 74.0 76.8 68.7  73.3  0.0 0.0 16 Florida G.C. 71.3 73.9 68.2  71.4  0.0 0.0 16 F. Dickinson 66.2 69.3 64.0  66.7  0.0 0.0 Team ratings: East
+
+The East is the second-best region in the tournament, not far behind the South. Although our model thinks No. 2 Xavier was slightly overseeded, the East has the second-best No. 1 seed (with UNC fairly close on Kansass heels), the best No. 3 seed (West Virginia) and the best No. 4 seed of any region (Kentucky). Theres a reason we give the top four seeds here such an overpowering likelihood of making the Final Four.
+
+The East figures to be a relatively chalky region, particularly in the early going. Aside from ninth-seeded Providence, a 62 percent favorite to oust Southern Cal, tantalizing first-round upset picks are hard to come by. The closest are Pitt over Wisconsin and the Michigan/Tulsa winner over Notre Dame, but each of those are less than 40 percent likely to happen. Our model might be missing how well a few of the underdogs match up against the favorites, but this region just doesnt seem like its going to provide a lot of teary-eyed upset footage for this years One Shining Moment montage.
+
+However, there are two potential confrontations further down the line that everyones already circled on their brackets: Kentucky-Indiana in the round of 32 and its winner vs. North Carolina in the Sweet 16. If each happens, you might not see a better pair of matchups at that stage of the tournament; our model says UNC is a deserving No. 1, Kentucky is basically a two-seed that got dropped to a No. 4 and Indiana deserved a No. 4 seed instead of a No. 5. The combination of history and talent in each game would be tremendous  but before we get too excited, our simulations say theres a 26 percent chance that at least one of the teams will lose before the matchups can come together.
+
+North Carolinas a pretty good bet to hold up its end of the bargain, though. The Tar Heels rank second in our power ratings and have the second-best Final Four probability of any team, trailing Kansas by a single percentage point. KU and UNCs odds would diverge slightly after that  to make the title game, Carolina would have to go through the presumably tougher Midwest champ  but a North Carolina-Kansas showdown is the most likely final according to our method.
+
+COMPUTER RATINGS PROBABILITY OF... SEED TEAM AVG HIGH LOW INJURY 538 RATING +/- SEED FINAL 4 CHAMPS 2 Mich. St. 93.2 93.9 92.5 -0.5 91.9 -1 34.2% 9.0% 1 Virginia 92.5 94.8 90.9  92.5  30.3 9.8 5 Purdue 89.5 90.6 88.4  88.6 -2 12.8 2.6 4 Iowa State 86.8 89.1 84.6 -0.8 86.5 +2 6.4 1.0 3 Utah 85.6 86.5 84.3 +0.4 86.6 +2 5.3 0.8 11 Gonzaga 86.4 87.6 85.4 -0.3 86.0 -5 3.2 0.5 9 Butler 84.0 85.7 83.0  84.2 -1 2.5 0.3 6 Seton Hall 85.6 87.5 84.3  84.5 +2 1.8 0.2 7 Dayton 82.4 84.1 81.2  82.4 +2 1.6 0.1 10 Syracuse 83.1 84.3 82.3  82.7 -1 1.3 0.1 8 Tex. Tech 82.1 83.5 80.4  81.3 +3 0.4 0.0 12 Little Rock 80.4 83.0 74.7  79.0  0.2 0.0 13 Iona 78.7 81.8 76.8 -0.0 78.2 -1 0.1 0.0 14 Fresno St. 77.6 80.0 76.0  76.6  0.0 0.0 15 MTSU 75.3 77.4 74.0  75.0  0.0 0.0 16 Hampton 67.9 71.9 65.6  68.6  0.0 0.0 Team ratings: Midwest
+
+As far as top two seeds go, its hard to get better than the Midwests combo of Virginia and Michigan State. According to our power ratings, theyre the nations third- and fourth-best teams, squeezed into the same region only because, well, nobodys really sure why.
+
+And yet, their collision course is not the most certain of any top two seeds, according to our model. (Kansas and Villanova, the top-seeded teams in the South region, are more likely to meet in the Elite Eight.) Why? Because the Midwest also has its share of spoilers situated elsewhere in the bracket. In addition to solid Utah and Iowa State teams as the third and fourth seeds, our ratings say Purdue is a No. 3 seed masquerading as a No. 5 and Gonzaga is a No. 6 in a No. 11s clothing.
+
+In fact, Purdue could be an interesting dark horse Final Four pick. Our simulations say they have a 13 percent shot at it, easily the best chance of any team seeded fifth or lower in its region. And for Gonzaga, an underdog run could be like old times again. The FiveThirtyEight model says the Zags have a 60 percent probability of pulling a first-round upset over Big East champ Seton Hall and a break-even shot against whichever team theyd end up facing the round after that (Utah, most likely).
+
+But in spite of all the ways in which it could be thwarted, an MSU-UVA regional final matchup is still the most likely way that the Midwest will reach its crescendo. If it happens, Virginia will be slightly favored according to our power ratings, though weve learned over the years to never discount a Tom Izzo-coached team.
+
+And in a year as wide open as this, why not Michigan State? Or Virginia, or Oklahoma, Villanova and West Virginia? Or the basketball blue blood in Kansas, North Carolina and Kentucky? With so much uncertainty, sometimes the best forecast is to pick out the handful of most likely winners and see what happens from there. Compared with the seeming imbalance of last year, this seasons parity might make for a more exciting tournament anyway.
+
+Check out FiveThirtyEights 2016 March Madness Predictions.",[]
+fivethirtyeight.com,2016-03-14 11:56:19+00:00,"Significant Digits For Monday, March 14, 2016",['Walt Hickey'],"Youre reading Significant Digits, a daily digest of the telling numbers tucked inside the news. Were trying out a new approach, with fewer news items but more detail, so please bear with us.
+
+2 years
+
+In todays edition of stories that made me ignore my best friends during brunch on Saturday because they hooked me that good, Richard Simmons has disappeared from public life for the past two years, has reportedly cut off ties with old friends, and those friends fear he may be held against his will in his home, the Daily News reports. Seriously, Hey you hear about this Richard Simmons thing? was basically the only thing I said to people for the rest of the day. [The New York Daily News]
+
+8 minutes
+
+Louisiana is in a dire financial situation and state legislators had to pass some pretty big tax increases, despite their misgivings, just to keep the lights on. Parts of the state will see sales taxes rise above 10 percent, and overall approximately $1 billion in new taxation was passed in the final eight minutes of the session. [The Advocate]
+
+10 pounds
+
+Ten pounds of bat guano  poop, that is  was found above the desk of Ken Lawson, a Florida regulator. That sucks, dont get me wrong, but imagine being the cop assigned to investigate this particular crime. Your place on the totem pole becomes pretty clear pretty immediately when you pull that assignment. [Associated Press]
+
+19 percent
+
+The University of Kansas has the highest chance of winning the NCAA Division I mens basketball tournament  March Madness!  based on the FiveThirtyEight model. (The womens bracket will be announced later today.) The other No. 1 seeds are the University of North Carolina, Oregon and the University of Virginia. [FiveThirtyEight]
+
+20 percent
+
+Average estimate of the likelihood of a recession in the next 12 months according to a monthly survey of economists, down from 21 percent a month ago but up from 10 percent six months ago. [The Wall Street Journal]
+
+11,000 data centers
+
+The federal government has a lot of data, OK? A new policy would force agencies to get permission from higher-ups before building a new data center, which seems silly until you hear that the Feds already have upwards of 11,000 data centers. The outdated tech housed within  some of it predates the 80s  makes up about three quarters of the $80 billion IT budget. [Nextgov]
+
+If you havent already, you really need to sign up for the Significant Digits newsletter  be the first to learn about the numbers behind the news.
+
+If you see a significant digit in the wild, send it to @WaltHickey.",[]
+fivethirtyeight.com,2016-03-14 21:53:08+00:00,Elections Podcast: Violence At Trump Rallies,[],"FiveThirtyEights Farai Chideya joins our elections podcast crew to discuss the incidents of violence at Donald Trump rallies around the country and look for historical precedents. Plus, what to expect from a big round of Tuesday primaries that could all but decide the Republican and Democratic nominees.
+
+Subscribe: iTunes | Download | RSS | Video
+
+You can stream or download the full episode above. You can also find us by searching fivethirtyeight in your favorite podcast app, or subscribe using the RSS feed. Check out all our other shows.
+
+If youre a fan of the elections podcast, leave us a rating and review on iTunes, which helps other people discover the show. Have a comment, want to suggest something for good polling vs. bad polling or want to ask a question? Get in touch by email, on Twitter or in the comments.",[]
+fivethirtyeight.com,2014-10-16 16:33:09+00:00,The Playoff Implications Of Every Game For Every NFL Team,"['Reuben Fischer-baum', 'Mike Beuoy']","Playoff Implications is a phrase you usually dont hear until the final weeks of the NFL regular season, but almost every regular season game has playoff implications. In the early going, however, it can be difficult to figure out just what those implications are, and how much is riding on each game.
+
+Most other major sports leagues play a greater number of regular season games, and thus the playoff picture in those sports evolves in a more incremental fashion. The pace can seem glacial at times for MLB, and inevitable and foregone when it comes to the NBA. But with just 16 regular season games, the NFLs playoff landscape can change dramatically over the course of a single Sunday afternoon. And these tectonic shifts take place throughout the season, not just in those final weeks of December.
+
+With a week or two left in the season, the eye test usually suffices for judging which games will shape the playoff picture. But in mid-October there are far too many possibilities for the unassisted human mind to make sense of. We can only speak in general terms. For example, we know the playoff chances for the New Orleans Saints will improve with a victory this Sunday over the Detroit Lions. But by how much? And how far would they drop with a loss? Expanding our focus, what other teams have a vested interest in the outcome of this game? One would expect Carolinas playoff chances to improve with a Saints loss, given that the Saints are their division rival. But once again, by how much?
+
+To answer these questions, weve created a weekly feature that measures the playoff implications of each game. To do this, you need to be able to simulate the remainder of the season multiple times and analyze the results. And in order to simulate the season, you need a way to rank all 32 teams, and use that ranking to create outcome probabilities for future games. Weve been doing just that with FiveThirtyEights Elo rankings. But the Elo ratings, simple and beautiful, arent the only word on NFL rankings. For this feature were going to turn to the wisdom of the crowd instead, and use a ranking system one of the authors developed based on betting markets. In stock market terms, think of it as technical analysis in lieu of fundamental analysis.
+
+Well get into the methodology in a moment but first the results. Think of each interactive table below as a playoff implications cheat sheet for this weeks upcoming games. (If you hover over a colored square, youll see details for that game.)
+
+UPDATE (Oct. 17, 12:30 p.m.): The interactive tables above have been updated to include Thursday nights game, which now shows no playoff implications because its result is included in the playoff chances (the text of the article has not been updated).
+
+Reading the table across tells you which teams are affected by any particular game. Reading the table down tells you which games matter most to any given team. For example, if youre a Texans fan, what games should you care about this week, how much should you care about them, and who do you want to win? The column headers are sortable, so clicking on the HOU column tells you to care about HOU @ PIT, ATL @ BAL, CIN @ IND, NYJ @ NE, CLE @ JAC, and KC @ SD  in that order. And you want the Texans, Falcons, Bengals, Jets, Jaguars and Chiefs to win.
+
+My rankings start from the assumption that the NFL gambling market is efficient, and then attempts to determine how that efficient market ranks each of the 32 NFL teams. Unfortunately, Vegas doesnt actually share its rankings with the general public, but with a little reverse-engineering, we can arrive at a pretty good guess at what they are. We start with the point spread. For Thursday nights game, the New England Patriots are a 9.5-point favorite at home against the New York Jets. Since home field advantage is worth about 2.5 points, the market thinks the Patriots are 7 points better than the Jets when playing on a neutral field.
+
+Armed with this interpretation, we then take the point spreads from each game and for multiple weeks and run a simple linear regression to arrive at a consensus ranking. The process is akin to drawing a map of the United States but nobody tells you a citys location. Instead, they only tell you how far away each city is from another city (e.g. Los Angeles is 1,700 miles away from Chicago, Chicago is 165 miles from Indianapolis, and so on). To further complicate matters, our map moves over time, making earlier distance measurements less reliable. For example, the Steelers opened the season as a 6-point favorite at home against the Browns. If the market were to set that point spread today, Pittsburgh would most likely drop to just a 2.5-point favorite, as the Steelers have fallen short of preseason expectations, and the Browns have exceeded them. So, the ranking methodology gives more weight to recent point spread data in an attempt to get the most up-to-date market evaluation of each team.
+
+Now that we have a ranking system that assigns a probability to each future regular season game outcome, the next step is to simulate the season multiple times (50,000 times to be exact). After simulating win/loss records, we apply the NFL playoff seeding rules (plus tiebreakers) and summarize the results. There are already several sites that do these types of simulations for the purpose of producing team playoff odds (including FiveThirtyEight). For this feature, were going to go a bit deeper than that.
+
+Instead of focusing on each teams overall playoff odds, lets instead focus on each game. Well use the New Orleans-Detroit game as an example. Of the 50,000 simulation runs, there were precisely 30,180 (or about 60 percent) that resulted in a Lions victory, and 19,820 that resulted in a Saints victory. Lets now focus on those two samples in isolation. Of the 30,180 simulations in which the Saints lost, they made the playoffs 8,273 times, or 27 percent. Of the 19,820 simulations in which the Saints won, they made the playoffs 9,172 times, or 46 percent. Put simply, the Saints playoff odds could swing by a not-insignificant 19 percent as a result of their game against the Lions. (The games with the most cumulative influence on the overall playoff picture (leverage) are listed at left).
+
+We can repeat this calculation for every game and every team. The result: A measure of how much every game matters to every team.",[]
+fivethirtyeight.com,2014-11-21 17:46:32+00:00,Skeptical Football: Patriots vs. Cardinals And An Interactive History Of The NFL,['Benjamin Morris'],"The first 10 games of the NFL season are its exposition period  we get to know the characters and themes that we expect to see develop as the race to the playoffs unfolds. This year, like nearly every other in the past decade, the New England Patriots refusal to regress to the mean is a central storyline.
+
+Remember back when the Patriots were 0-1 and faced a must-win in Week 2? Well, they won. Then in Week 4 they dropped to 2-2, and the end of an era was supposedly nigh. Except no. Pats will be Pats, and now theyve won their last six games en route to the best record in the AFC. That streak has included comfortable wins against the Cincinnati Bengals (who at one point projected to have the best record), the surprisingly strong Buffalo Bills, and Peyton Manning and Andrew Luck. (The Patriots are also tied with the Green Bay Packers for a league-leading point differential). And according to my colleague Neil Paine, the Patriots are really a second-half team. I shudder to think.
+
+But theres another storyline thats dominated the exposition period: The best record in the NFL belongs to the 9-1 Arizona Cardinals. While theyve beaten some decent teams like Dallas, Philadelphia and San Francisco, they dont have what the yakkers call a signature win. They have only the seventh-best SRS in football, second to the Packers in the NFC, and only a half-point ahead of the defending champion Seattle Seahawks (who have four losses).
+
+Aside from being the class of their respective conferences so far this year, the two franchises have little in common. The Cardinals have now secured their second winning season in a row  and can count that as an accomplishment in light of their 90-year history of losing. Although the Patriots dominance of the regular season continues apace, they will likely be disappointed if they dont win their first Super Bowl in 10 years.
+
+To illustrate just how divergent these two franchises have been, I created a chart to show the entire history of the NFL (or at least what we have stats for). This is the cumulative regular-season point differential since 1920, for all teams (with the Patriots and the Cardinals highlighted):
+
+The current Patriots dynasty is lengthy and steep, and belongs in the same group as the San Francisco 49ers of the 1980s, the Cleveland Browns of the 50s and 60s, or the Chicago Bears of the 30s and 40s (especially when you factor in league parity).
+
+That chart is fun, but it would be a lot more useful if we could make out all 81 NFL franchises individually. Well ...
+
+Chart of the week
+
+Thanks to the great work of designated Skeptical Football charts guru Reuben Fischer-Baum, you can do just that. Roll over a line to see the teams entire history, and move along the line to see exactly how many points it has scored compared to its opponents at a given point. You can also click on a team to keep its line highlighted, and then roll over another team for comparison. Irrelevant dates (where no regular-season games were played) are excluded from the timeline.
+
+Here are a couple of things I found from the interactive that I thought were interesting:
+
+Even more Aaron Rodgers
+
+First, Aaron Rodgers  apparently unmoved by my ongoing criticism of his failure to throw more interceptions  is absolutely tearing it up this year (at least when his team is ahead, which is most of the time lately). Recently, he accomplished something pretty cool that I didnt know about:
+
+On Sept. 25, 2011, Rodgers threw three touchdown passes as the Green Bay Packers beat the Chicago Bears 27-17. With that result, the Packers had scored 2,991 more points than their opponents all-time, ahead of the Bears 2,989  and the Packers havent looked back. As of last Sunday, Green Bay held the NFLs best historical margin of victory by 358 points.
+
+Comment of the week
+
+Last week Neil Paine and I wrote an article titled Randy Moss May Well Have Been The Greatest Receiver Of All Time  which focused on the insane With Or Without You stats that Moss put up in his career. In the discussion, we raised the possibility that if receivers can have as much of an impact as Randy Moss appeared to have, that may cast doubt on some previous knowledge  like how good of a quarterback Joe Montana was considering he had Jerry Rice running routes for so long.
+
+A few different people in the comments and elsewhere raised the point that Joe Montana had already won two Super Bowls before Jerry Rice arrived in San Francisco:
+
+Upon further consideration, Im inclined to agree that its fairly unlikely that Rice was the driving force behind the 49ers success. But Im not so sure Montana was either.
+
+Winning in the NFL can happen for a lot of different reasons  a star quarterback (think Peyton Manning), a successful new offensive or defensive strategy (think West Coast offense, zone blitz, or, more recently, the Wildcat), or a standout player who creates mismatches that other teams struggle with (think Randy Moss). But the effects of various win-generating phenomena can come in a lot of shapes and sizes.
+
+For example, lets compare the 49ers to the St. Louis Rams. Pay particular attention to the Greatest Show on Turf era from 1999 into the early 2000s:
+
+The Greatest Show on Turf Rams had a few different things going for them, but their success was sudden, rocky, and lasted only a few years. They broke the game for a while in the sense that they were something the rest of the NFL didnt know how to deal with. But despite having a lasting effect on how football is played, their dominance was fragile.
+
+On the other hand, from the early 80s to the late 90s, the 49ers outscored their opponents by around 2,500 points  by far the most dominant stretch in the Super Bowl era. And they did it with a practically straight line, meaning they were better than their opposition by a nearly constant amount.
+
+If the 49ers owed a significant part of their success to any one player (or phenomenon of any kind), wed likely see more variety in the teams arc as that players performance fluctuated, or as he was injured, or left. But the consistency of the 49ers ascension suggests they were more of an organization-driven phenomenon. At the very least, it implies that they were the sum of many different quality parts.
+
+Playing around with the interactive, Im fascinated by how different phenomena manifest. For example: How do the impacts of offensive and defensive innovation compare? What are the effects of a quarterback versus those of a coach? There are a lot of possibilities, so let us know what you uncover in the comments or on Twitter.
+
+Week 11 kicking awards
+
+I keep thinking (and my editor keeps hoping) this will be the week I wont bother talking about kickers, but then Las Vegas Locomotives alumnus Graham Gano has to go and attempt a 63-yard field goal with one second left in a thriller between the Carolina Panthers and the Atlanta Falcons. Unfortunately for the Panthers, it was blocked.
+
+My kicking model suggests that a kicker in 2014 should typically be able to make a 63-yard field goal around 40 percent of the time  but this may be skewed by the fact that such long kicks are so rarely attempted. Still, Ganos 63-yarder wasnt what earned him the kicker loss and Week 11s Least Valuable Kicker award. What did him in was his previous miss, a 46-yarder, which a 2014 NFL kicker should typically make about 77 percent of the time.
+
+My algorithm picked the Falcons Matt Bryant as the MVK over the St. Louis Rams Greg Zeurlein (who had an excellent week, going 5/5 with two 50+ yarders in the Rams huge upset of the Broncos), on account of Bryant making four field goals in a game his team only won by two (though none was over 44 yards).
+
+But the biggest news of the week is that with Nick Novak missing a kick for the San Diego Chargers, were down to just two perfect kickers, and theyre both veterans: the Indianapolis Colts Adam Vinatieri and the New York Giants Josh Brown.
+
+Gunslinger of the week
+
+There were 26 interceptions thrown in Week 11, and seven of them were thrown by the Manning brothers. Eli Manning had five in the Giants narrow loss against the 49ers  four of which were thrown with his team trailing  enough to win him our Gunslinger of the Week award.
+
+Throwing a practically embarrassing number of interceptions now and then is something great quarterbacks do. QBs, dont be ashamed of looking bad when trying to win! A loss is a loss, whether you throw zero interceptions or six. My maxim is: If a quarterback loses a game without throwing a few interceptions, he probably didnt try hard enough.
+
+In general, Eli Manning is a bit of an unknown. He puts up fairly big totals for a mediocre team, but often gets criticized for his high interception rate. Yet his win curve looks mostly like his big brothers, only flatter, and its plausible that his shame-free style was partially responsible for the Giants shocking wins in two Super Bowls. Elis gambling wouldnt necessarily make the Giants favorites against stronger competition, but it might have given them a better chance against a team like the 2007 Patriots than a better team with a quarterback who took fewer risks.
+
+Just for fun, I looked at the Pro Football Reference list of quarterbacks with the most four-plus-interception games. The top four are George Blanda, Joe Namath, Ken Stabler and Terry Bradshaw (all of whom won championships, and three of whom are in the Hall of Fame). Of the top 50 such QBs, 15 have won championships (and account for 20 Super Bowls), including both brothers Manning.
+
+Rookie QB watch
+
+The biggest news in rookie QB-land was in Tennessee, where sixth-round-pick Zach Mettenberger had a fairly strong game against the Pittsburgh Steelers (263 yards and two touchdowns). Hes now guaranteed to reach the magical four-start line when rookie QBs are more likely to have successful careers. Im not quite ready to move him up in the rankings just yet, but every pass he completes is one more than Johnny Manziel has completed all year. As of now, Id order the rookies estimated career prospects like so:
+
+The Jacksonville Jaguars Blake Bortles had a bye week. The Oakland Raiders Derek Carr, despite finally winning a game Thursday night (in dramatic fashion) has had a pretty weak couple of weeks, with just 172 and 174 yards in Weeks 11 and 12, despite a combined 69 pass attempts. The Minnesota Vikings Teddy Bridgewaters two game winning streak came to an end in Chicago. Mettenberger. The Patriots Jimmy Garropolo. Manziel once again got all dressed up with no ball to throw.
+
+Not really in the game yet but worth keeping an eye on: Logan Thomas is now second on the depth chart in Arizona. So far this year he has a 108.9 NFL Passer Rating, but hes gotten it the hard way: He has only one completion in eight attempts (10 if you count sacks), but it went for 81 yards and a touchdown.
+
+Reader response
+
+In Week 9s column, I introduced my experimental win curves for quarterbacks, which depict how much each QB typically wins relative to various expectations, and I included a number of examples.
+
+I covered most popular quarterbacks, with a couple of notable exceptions. One request I got an awful lot:
+
+@skepticalsports As a Bears fan, I'd love to see the ""Win Curve"" for Jay Cutler that you wrote about in your latest @FiveThirtyEight column  John D. Kos (@johndkos) November 7, 2014
+
+I would have included Cutler initially, but I had a problem with his curve: It was coming out as a perfectly straight line, virtually indistinguishable from the y=x guide (a highly unlikely outcome). I thought this might have been a data problem, but it turns out Cutlers results really were just too vanilla for the method I was using to pick up the variation. So I tried an alternate method that is more sensitive to small variation. The alternate method turned out to be less sensitive to large variation as well, so I was able to plot a couple more notable quarterbacks as well as Cutler:
+
+Russell Wilson  like his comrade Andrew Luck  has a very impressive curve so far in his career, albeit over a sample still probably too small for this analysis. (He also gets very good support from a strong team around him.)
+
+Cutlers curve is still remarkably unremarkable, but at least it shows up. He appears to do slightly above average regardless of the circumstances. As a special treat for Bears fans who had to wait two weeks  and because I wanted to see what was going into this virtually straight line  Ive broken down Cutlers curve by quarter, and compared each to the same breakdown for Peyton Manning (our standard-bearer for such things):
+
+Being very far ahead or behind in the first quarter is rare, so you should take the tails of that quadrant with a grain of salt. In the second and fourth quarters, Cutler seems to outperform average in a pretty uniform way, and in the third-quarter he has a bit of a reverse-Matthew Stafford thing going on.
+
+Most empirically significant game of this week
+
+The Cardinals matchup against the defending champion Seahawks is a pretty big test for the team with the leagues best record.
+
+But on top of that, the Cardinals have a lot of important parts coming and going, which is always empirically significant: Their top QB (Carson Palmer) is out. Last week, Cardinals backup Drew Stanton held off the Detroit Lions Stafford at the end of the game, but the Cardinals still struggled. Leading for most of the game, they rushed 26 times, but gained only 46 yards. And their top receiver, Larry Fitzgerald, is injured but may play anyway. As demonstrated in the article on Moss, the value of top-notch WRs can affect our broader understanding of the game.
+
+And then there are the Seahawks  who were young powerhouses last year, but are possibly already in decline  and Russell Wilson, who last year averaged 33.7 yards rushing per game. Thats by far the most of any QB in a year his team won the Super Bowl  and hes averaging 57.1 per game this year. What running quarterbacks mean for the game is a fascinating open question. A lot of newer, fancier QB-rating systems are giving QBs a lot of credit for their scrambling (often much more than if you treated those plays the same as completed pass attempts). But while those individual plays can be valuable, there havent been a lot of dynamic offenses built around running QBs, and its still unclear whether this is just a bonus skill or whether it will be a necessity in the future NFL.
+
+Its perhaps even more valuable to see Wilson in action with the Seahawks struggling a bit (it can also be harder to isolate an individual players contributions when a team is firing on all cylinders). Hell be tested against a Cardinals defense that grades out as one of the best in the NFL this year  a perfect opportunity to see what both are made of.
+
+Reminder: If you tweet questions to me @skepticalsports, there is a non-zero chance that Ill answer them here.
+
+Charts by Reuben Fischer-Baum.",[]
+fivethirtyeight.com,2016-03-14 10:02:07+00:00,What Trump Supporters Were Doing Before Trump,['Dan Hopkins'],"Typically, at this point in a presidential election cycle, punditry is focused on campaign tactics and delegate counts  who is advertising where, who is endorsing whom. But the unexpected rise of Donald Trump has scrambled the usual rituals and led to a wave of commentary about a much more fundamental question: the future of the Republican Party.
+
+To know whether Trumps rise is a one-off or the opening act of a broader shift in American politics, though, we need to understand whats motivating his supporters. Do they back him because they share at least some of his positions on issues or for other reasons, like his tone, his fame or his status as an outsider? Whether Trump has the potential to realign American politics hinges on the answer.
+
+Already, we know a fair bit about Trump supporters. Demographically, they are often white, male and without college degrees. They are disproportionately drawn from the ranks of registered Democrats who vote like Republicans. (Or else theyre named Chris Christie.)
+
+On Trump supporters attitudes and issue positions, however, there is less agreement. Trump captured headlines last June with an announcement speech that called immigrants coming from Mexico rapists, and for a time, immigration was the only issue on his campaign website. Its not surprising that analysts have linked Trump support to anti-immigration attitudes as well as prejudice, authoritarianism and populism.
+
+In a recent post, Sean Trende and David Byler push back against explanations of Trump that focus solely on prejudice: There is also a strong strain of anti-elite sentiment in the country right now, and Trump taps into that. Whats more, there appears to be an economic underpinning to Trump support. As John Sides and Michael Tesler show, people who are dissatisfied with their financial situation are more likely to back Trump as well.
+
+Still, there is a well-known challenge in figuring out which comes first. Do people gravitate to candidates who share their political views, or do they adopt the political views of the candidates they already back for other reasons? We can get around that conundrum using the Institute for the Study of Citizens and Politics panel survey that Diana Mutz and I have been conducting along with colleagues. The panel has followed the same American adults since late 2007, with the most recent survey having wrapped up in early February of this year, shortly after the Iowa caucuses.
+
+The panel gives us an unparalleled look at Trump supporters attitudes long before they even knew Trump would run, whether in 2007, 2008 or 2012. To make things simple, I recoded every measure to vary from 0 to 1, and compare the 250 Trump supporters to 109 Ted Cruz supporters and 78 Marco Rubio supporters. Trumps overall support in the 2016 wave of the panel is 40 percent among Republicans, which tracks his national polling reasonably well.
+
+STANCE OF SUPPORTERS POSITION YEAR TRUMP CRUZ RUBIO Raise taxes on rich 2007 0.25 0.24 0.27 Pro-gay marriage 2007 0.31 0.20 0.28 Conservative ideology 2007 0.64 0.76 0.67 Pro-choice 2007 0.63 0.39 0.42 Stay in Iraq 2007 0.62 0.81 0.67 Hawk (vs. dove) 2008 0.68 0.67 0.52 No special help for blacks 2012 0.86 0.82 0.80 Obama rating 2012 0.21 0.17 0.20 Anti-Obamacare 2012 0.76 0.82 0.80 Very critical of system 2012 0.70 0.64 0.62 Pro-government spending 2012 0.20 0.15 0.15 Create pathway to citizenship 2012 0.21 0.29 0.37 Anti-Hispanic prejudice 2012 0.53 0.50 0.49 Anti-black prejudice 2012 0.58 0.54 0.55 Pro-NAFTA 2012 0.40 0.50 0.52 How the GOP candidates supporters differed on issues Stance on a position ranges from 0-1, with 0 being totally against and 1 being totally in agreement with Source: HOPKINS/MUTZ
+
+Whats the image of Trump supporters that emerges from the panel? Back in late 2007, they rated themselves as much less conservative than Ted Cruzs supporters, at 0.64 compared to Cruz supporters 0.76. But there are well-known limits to ideological self-placement, and if we focus on it alone, we risk missing much of what makes Trump supporters stand out. So lets instead go issue by issue.
+
+First, consider economic issues. Some have pointed to Trumps support for Social Security and his on-again, off-again support for a health care mandate to suggest that he is something of an economic populist. But as these results make clear, back in 2012 Trump supporters were only slightly more supportive of government spending generally, at 0.20 compared to Cruz and Rubio supporters 0.15. (Keep in mind that 0 means government should provide fewer services; reduce spending a lot while 0.5 means the status quo.) Also, Trump supporters were only a touch less likely to support repealing the Affordable Care Act, at 0.76 compared to about 0.80 for Rubio and Cruz backers. Similarly, on raising taxes on the rich, they were opposed and basically indistinguishable from backers of other GOP candidates. In all those cases, Trump supporters look more like other Republicans than like New Dealers.
+
+On social issues, the differences are more noteworthy. Trump backers were far more pro-choice than Cruz or Rubio supporters, at 0.63 (0.67 is equivalent to agreeing that abortion should be available, but with stricter limits). Thats not far from Clinton backers 0.73. By contrast, Cruz supporters 0.39 puts them closer to the view represented by 0.33: Abortion should not be permitted except in cases of rape, incest, or when the life of the woman is at risk. In that light, maybe Trumps defenses of Planned Parenthood make more sense. Trump supporters were also a bit more supportive of gay marriage than Cruz supporters, although the difference isnt nearly as pronounced.
+
+Trump has also attracted attention for dissenting from the hawkish foreign policy views that are dominant in the GOP. For instance, he drew ire from GOP foreign policy elites after accusing former President George W. Bush of having lied about weapons of mass destruction in the run-up to the Iraq War. On the question of whether to remain in Iraq as of late 2007, Trump supporters scored a 0.62, which is relatively close to the 0.50 position (The U.S. should set a deadline for withdrawing its troops). That makes them less favorable toward the Iraq War than Cruz supporters (0.81) and closer to Rubio supporters (0.67). But when asked in late 2008, the future Trump supporters were slightly more likely to call themselves hawks than Cruz backers (0.68 versus 0.67), and markedly more likely than Rubio backers (0.52). Rubio presents himself as the most hawkish of the three candidates, but his base of support didnt describe themselves that way. As political scientist Elizabeth Saunders has noted, 2016 is no exception to the rule: Voters do not seem to be picking their candidates based on their foreign policy views. Foreign policy has been a prominent point of division in the GOP debates, but those divisions dont seem to be reflected in public support.
+
+That brings us to a pair of issues that have defined Trumps candidacy: trade and immigration. In his announcement speech, even before mentioning immigration, he talked about trade: When was the last time anybody saw us beating, lets say, China in a trade deal? They kill us. I beat China all the time. All the time. And indeed, Trump supporters were far less sanguine about NAFTA in late 2007 than Cruz or Rubio backers. They score an 0.40 on NAFTA support, a far cry from the 0.50 among Cruzs supporters or the 0.52 among Rubios. And on immigration, Trump backers are markedly less likely to have favored a pathway to citizenship in 2012  0.21 compared to 0.29 for Cruz backers or 0.37 for Rubio supporters. So on those signature issues, Trump supporters are at odds with other Republicans  and to some extent with the leaders of the GOP.
+
+These results also reaffirm what others have pointed out about white Trump supporters levels of prejudice: They are higher than those of Cruz or Rubio supporters. For our 2012 measure of white-black prejudice, white respondents were asked to assess whites and blacks on different stereotypes such as intelligence and work ethic. We then subtract peoples views of whites from their views of blacks, so that 0 indicates someone who endorses negative stereotypes only about whites while 1 indicates someone endorsing negative stereotypes only about blacks. A 0.50 indicates a respondent who rates whites and blacks equally on average, while the 0.58 of Trump supporters indicates markedly more positive ratings of whites relative to blacks. Is prejudice among the distinguishing attitudes of Trump backers? In a word, yes.
+
+But that said, one word isnt enough to summarize a whole set of motivations. In the U.K., people who are concerned about immigration levels also tend to be politically disaffected: They see elites support for immigration as a prime example of politicians abandonment of working-class constituents. That mix of attitudes helped vault the anti-immigration, Euro-skeptic United Kingdom Independence Party to the political stage in recent years. There is some suggestion that the same dynamic is at work in the U.S. At 0.70, Trump supporters were notably more likely to say in 2012 that at present I feel very critical of our political system than were future Cruz or Rubio backers (0.64 and 0.62).
+
+Whats more, if you take the 40 percent of the GOP electorate that backs Trump and multiply it by the 30 percent or so of the electorate that identifies as Republican, you get around 12 percent of the U.S. population whose first choice is Trump. Thats just one percentage point off the 13 percent that UKIP won in the May 2015 general election.
+
+Do Trump supporters stand out for their levels of prejudice or their concerns about unauthorized immigration? Yes. But those are not their only defining features. They are also more pro-choice than other Republican primary voters. And their economic populism seems to be focused on trade and not on government spending. Down the road, we may well view the 2016 election as an aberration. But Trumps rise is more than a celebrity trading on his publicity. One of the key ingredients of a political realignment  a split within one party on a durable, straightforward set of issues  is now in place.
+
+Listen to the latest episode of the FiveThirtyEight elections podcast.
+
+Subscribe: iTunes | Download | RSS | Video",[]
+fivethirtyeight.com,,2016 NCAA Basketball Tournament  FiveThirtyEight,"['Jay Boice', 'Reuben Fischer-baum', 'Dan Hopkins', 'Neil Paine', 'Nate Silver', 'Harry Enten']","Never miss the best of FiveThirtyEight.
+
+The best of FiveThirtyEight, delivered to you.
+
+Thanks for submitting!
+
+You should receive a confirmation in your inbox shortly.
+
+Politics Dispatch
+
+Our take on all things 2016. Significant Digits (Daily)
+
+Our roundup of numbers in the news. What You Missed at FiveThirtyEight (Weekly)
+
+Highlights from the past week.",[]
+fivethirtyeight.com,2015-02-18 12:48:04+00:00,Every NBA Teams Chance Of Winning In Every Minute Across Every Game,"['Allison Mccann', 'Mike Beuoy']","Can you summarize the NBA season in one chart? With 794 games, more than 152,000 possessions and some 372,000 plays, probably not, but weve given it a shot. What you see above is the 2014-15 seasons win probabilities, summarized. At any point in an NBA game, each team has a probability of winning based on the time remaining, the score and the situation (i.e. after a made shot, shooting foul, etc.). In the chart, each teams in-game win probability is averaged over each minute of regulation time. Its like watching a win-loss record develop in real time.
+
+The win probability model that provides the foundation of the chart uses data from 13 NBA seasons (2000 to 2012). The model is not based on simulations, but rather it does its best to reflect how NBA games are actually played, won and lost.
+
+One of our favorite findings: The Golden State Warriors and Atlanta Hawks share a similar win-loss record, but theyve taken different paths to get to that point. The Warriors have shown more dominance throughout games, often building early, insurmountable leads. The Hawks, in contrast, dont pull away until the fourth quarter.
+
+Let us know about your own discoveries in the comments below.",[]
