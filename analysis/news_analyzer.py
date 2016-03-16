@@ -14,41 +14,69 @@ from nltk import word_tokenize
 
 class NewsSelector(Frame):
 
-	def say_hi(self):
-		print "hi there, everyone"
+	def finish_selection(self):
+		print "processing data subset"
+		process_selection()
+	#
+	# STARTING SIMPLE, SOURCES ONLY, FRAMEWORK FOR REMAINDER
+	#
+
+	# Take user-inputted values and build subset (dump to csv)
+	def process_selection():
+
+		with open('papers.csv','r') as incsv, open('papers_subset.csv','w') as outcsv:
+
+			# Use csv reader and list of sources to select rows of interest
+			reader = csv.DictReader(incsv)
+			sources = set(source)
+
+			for row in reader:
+				if row['Source'] in sources:
+					outcsv.write(row) # Write row if in desired list of sources
+
 
 	def create_widgets(self):
-		self.QUIT = Button(self)
-		self.QUIT["text"] = "QUIT"
-		self.QUIT["fg"] = "red"
-		self.QUIT["command"] = self.quit
+		self.vsb = Scrollbar(self,orient="vertical")
+		self.text = Text(self, width=40, height=20, yscrollcommand=self.vsb.set)
+		self.vsb.config(command=self.text.yview)
+		self.vsb.pack(side="right",fill="y")
+		self.text.pack(side="left",fill="both",expand=True)
 
-		self.QUIT.pack({"side":"left"})
+		for i in self.source:
+			cb = Checkbutton(self, text=str(i))
+			self.text.window_create("end", window = cb)
+			self.text.insert("end", "\n") # one checkbox per line
 
-		self.hi_there = Button(self)
-		self.hi_there["text"] = "Hello",
-		self.hi_there["command"] = self.say_hi
+		self.finish_selection = Button(self)
+		self.finish_selection["text"] = "Finish Selection",
+		self.finish_selection["command"] = self.finish_selection
 
-		self.hi_there.pack({"side":"left"})
+		self.finish_selection.pack(side = BOTTOM)
 
-	def __init__(self, master=None):
-		Frame.__init(self, master)
+	def __init__(self,source,keywords,date,authors,master=None):
+		Frame.__init__(self, master)
+		self.source = set(source)
+		self.keywords = keywords
+		self.date = date
+		self.authors = authors
 		self.pack()
 		self.create_widgets()
 
 class NewsAnalyzer:
-	def __init__(self,load=True):
+	def __init__(self,load=True,set_defaults=True):
 
+		# Set global defaults
+		self.data_source = "papers.csv"
+		self.source = self.keywords = self.authors = self.date = self.text = self.title = []
 		# Preload data from master file
 		if load == True:
-			print("Loading master data file\n...\n...\n...")
 			self.load_data()
-			print("Finished loading master data file")
 
 		# Prepare default training data for sentiment analysis
-		training_subjective = [(sentences,'subj') for sentences in sub.sents(categories='subj')[:500]]
-		training_objective = [(sentences,'obj') for sentences in sub.sents(categories='obj')[:500]]
-		self.sentiment_training_default = training_objective + training_subjective
+		if set_defaults == True:
+			training_subjective = [(sentences,'subj') for sentences in sub.sents(categories='subj')[:500]]
+			training_objective = [(sentences,'obj') for sentences in sub.sents(categories='obj')[:500]]
+			self.training_data = training_objective + training_subjective
 		
 		print("NewsAnalyzer created")
 
@@ -67,6 +95,8 @@ class NewsAnalyzer:
 
 	def load_data(self,source="papers.csv"):
 		
+		print("Loading " + source + " data file\n...\n...\n...")
+	
 		# Prepare object storage for news analyzer
 		self.text = [];self.source = [];self.date = [];self.title = [];self.authors = [];self.keywords = []
 
@@ -98,20 +128,24 @@ class NewsAnalyzer:
 				self.authors.append(row['Authors'])
 				self.title.append(row['Title'])
 	
+		print("Finished loading " + source + " data file")
+	
 	# Select data of interest from all
 
 	def select_data(self):
 
 		root = Tk()
-		app = NewsSelector(master=root)
+		app = NewsSelector(master=root,source=self.source,keywords=self.keywords,date=self.date,authors=self.authors)
 		app.mainloop()
 		root.destroy()
+
+		self.papers_source = "papers_subset.csv"
 
 	# Conduct sentiment analysis
 
 	def sentiment_analysis(self,testing_data,training_data=None):
 		if training_data is None:
-			training_data = self.sentiment_training_default
+			training_data = self.training_data
 		## Apply sentiment analysis to data to extract new "features"
 
 		# Initialize sentiment analyzer object
