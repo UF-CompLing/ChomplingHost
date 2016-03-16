@@ -5,11 +5,36 @@
 # Description: collection of tools for simplifying regularly used analysis tasks and procedures
 
 import nltk, re
+from Tkinter import *
 from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import subjectivity as sub
 from nltk.sentiment import SentimentAnalyzer
 from nltk.sentiment.util import *
 from nltk import word_tokenize
+
+class NewsSelector(Frame):
+
+	def say_hi(self):
+		print "hi there, everyone"
+
+	def create_widgets(self):
+		self.QUIT = Button(self)
+		self.QUIT["text"] = "QUIT"
+		self.QUIT["fg"] = "red"
+		self.QUIT["command"] = self.quit
+
+		self.QUIT.pack({"side":"left"})
+
+		self.hi_there = Button(self)
+		self.hi_there["text"] = "Hello",
+		self.hi_there["command"] = self.say_hi
+
+		self.hi_there.pack({"side":"left"})
+
+	def __init__(self, master=None):
+		Frame.__init(self, master)
+		self.pack()
+		self.create_widgets()
 
 class NewsAnalyzer:
 	def __init__(self,load=True):
@@ -77,12 +102,10 @@ class NewsAnalyzer:
 
 	def select_data(self):
 
-		for i in range(len(self.testing)):
-			#
-			#
-			#
-			#
-			print(str((i/len(self.testing))*100) + "%")
+		root = Tk()
+		app = NewsSelector(master=root)
+		app.mainloop()
+		root.destroy()
 
 	# Conduct sentiment analysis
 
