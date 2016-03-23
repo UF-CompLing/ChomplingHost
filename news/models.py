@@ -8,7 +8,7 @@ class Article(models.Model):
 	def __unicode__(self):
 		return self.article_id
 	# Link to Authors table
-	article_author = models.CharField(max_length=50)
+	article_author = models.CharField(max_length=50,null=True,blank=True)
 	def __unicode__(self):
 		return self.article_author
 	# Links to Keywords table
@@ -24,7 +24,7 @@ class Article(models.Model):
 	article_source = models.CharField(max_length=20)
 	def __unicode__(self):
 		return self.article_source
-	article_date = models.DateField()
+	article_date = models.DateField(null=True,blank=True)
 	def __unicode__(self):
 		return self.article_date
 
