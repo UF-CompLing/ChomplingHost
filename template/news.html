@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<!-- Author: Dax Gerts
+	Date: 18 November 2015
+	Description: Home page design for webstore -->
+<!--<img src="/static/media/blueprint_wide.jpg"/>-->
+<head>
+    <!-- Title pending for webstore name -->
+    <title>Chompling News</title>           
+	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  	 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+  	<link rel="stylesheet" type="text/css" href= "/static/css/style.css" media = "screen" />
+
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+
+</head>
+
+</head>
+
+<body class="align" >
+
+	<div class="site__container">
+	<div class="grid__container">
+	
+	<h1>Browse	 <a href="/index">Index</a> <span class="fontawesome-arrow-right"></span>
+	</h1>
+	</div>
+	<h2>
+		<form class="form form--login">{%csrf_token%}
+			<input type="text" name="q" id="id_q" value="{{ query }}"/>
+			<input type="submit" value="Search" onclick="javascript: form.action='/search/';">
+			<input type="checkbox" id="sorted" name="sort" value="{{ query }}" onclick=""> Sort By Price <br>
+
+		</form>
+	
+	</h2>
+
+    <div ng-hide="">
+		{% if results %}
+		<!--{{results}}-->
+		<table style="padding: 5px; font-size:150%" id="Products">
+			
+			<tr style="font: bold"> 
+				<th> Article ID </th>
+				<th> Article Title </th>
+				<th> Article Source </th>
+				<th> Article Date </th>
+				<th> Article Author </th>
+				<th> Article Keywords </th>
+				<th> Article Text </th>
+			</tr>
+			{% for p in results %}
+			<tr >
+				<td> {{ p.article_id }}</td>
+				<td> {{ p.article_title }} </td>
+				<td> {{ p.article_source }} </td>
+				<td> {{ p.article_date }} </td>
+				<td> {{ p.article_author  }}</td>
+				<td> {{ p.article_keywords }} </td>
+				<td> {{ p.article_text }} </td>
+
+			</tr>
+			{% endfor %}
+		{% endif %}
+	</div>
+	<!--
+	<div>
+		{% if results_price_sorted %}
+		<table style="padding: 5px; font-size:150%" id="Products">
+			
+			<tr style="font: bold"> 
+				<th> Product ID </th>
+				<th> Product Description </th>
+				<th> Product Price </th>
+				<th> Product Active </th>
+				<th> Product Stock Quantity </th>
+				<th> Supplys </th>
+				<th> Order </th>
+				<th> Contains </th>
+				<th> Product Name </th>
+			</tr>
+			{% for p in results_price_sorted %}
+			<tr >
+				
+				<td> {{ p.product_id }}</td>
+				<td> {{ p.product_description }} </td>
+				<td style="text-align: right"> $ {{ p.product_price }} </td>
+				<td> {{ p.product_active  }}</td>
+				<td> {{ p.product_stock_quantity }} </td>
+				<td> {{ p.supplys }} </td>
+				<td> {{ p.order }} </td>
+				<td> {{ p.contains }} </td>
+				<td> {{ p.product_name }} </td>
+
+			</tr>
+			{% endfor %}
+		{% endif %}
+	</div>
+	-->
+		<!-- this is a working table
+
+	</table>	
+	<table style="padding: 5px; font-size:150%" id="Products" >
+		
+		<tr style="font: bold"> 
+			<th> Product ID </th>
+			<th> Product Description </th>
+			<th> Product Price </th>
+			<th> Product Active </th>
+			<th> Product Stock Quantity </th>
+			<th> Supplys </th>
+			<th> Order </th>
+			<th> Contains </th>
+			<th> Product Name </th>
+		</tr>
+		{% for p in product_list %}
+		<tr >
+			
+			<td> {{ p.product_id }}</td>
+			<td> {{ p.product_description }} </td>
+			<td> {{ p.product_price }} </td>
+			<td> {{ p.product_active  }}</td>
+			<td> {{ p.product_stock_quantity }} </td>
+			<td> {{ p.supplys }} </td>
+			<td> {{ p.order }} </td>
+			<td> {{ p.contains }} </td>
+			<td> {{ p.product_name }} </td>
+
+		</tr>
+		{% endfor %}
+	</table>	
+	-->
+
+
+	</div>
+    
+	
+
+   
+    
+</body>
+</html>
