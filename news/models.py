@@ -26,7 +26,7 @@ class Article(models.Model):
 		return self.article_source
 	article_date = models.DateField(null=True,blank=True)
 	def __unicode__(self):
-		return self.article_date
+		return self.article_date.strftime("%d/%m/%y")
 
 
 

@@ -25,18 +25,41 @@
 	<div class="site__container">
 	<div class="grid__container">
 	
-	<h1>Browse	 <a href="/index">Index</a> <span class="fontawesome-arrow-right"></span>
-	</h1>
+	<h1> Welcome to the Chompling News Analyzer </h1>
+	<!--<h1>Browse	 <a href="/index">Index</a> <span class="fontawesome-arrow-right"></span>
+	</h1>-->
 	</div>
-	<h2>
+	<div>
 		<form class="form form--login">{%csrf_token%}
+			<h2>Option 1: Search Article Database</h2>
 			<input type="text" name="q" id="id_q" value="{{ query }}"/>
 			<input type="submit" value="Search" onclick="javascript: form.action='/search/';">
-			<input type="checkbox" id="sorted" name="sort" value="{{ query }}" onclick=""> Sort By Price <br>
+			<input type="checkbox" id="sort" name="sort" value="{{ query }}" onclick=""> Sort By Date <br>
 
+			<h2>Option 2: Conduct Article Analysis</h2>
+			<h3>Cleanup</h3>
+			<input type="checkbox" id="trash" name="trash" value="{{ query }}" onclick="">Remove Trash <br>
+			<input type="checkbox" id="length" name="length" value="{{ query }}" onclick=""> Remove Short Articles <br>
+
+			<h3>Sources</h3>
+			<input type="checkbox" id="cnn" name="cnn" value="{{ query }}" onclick=""> CNN  
+			<input type="checkbox" id="fox" name="fox" value="{{ query }}" onclick=""> Fox News
+			<input type="checkbox" id="npr" name="npr" value="{{ query }}" onclick=""> NPR<br>
+			<input type="checkbox" id="msnbc" name="msnbc" value="{{ query }}" onclick=""> MSNBC
+			<input type="checkbox" id="ap" name="ap" value="{{ query }}" onclick=""> AP
+			<input type="checkbox" id="economist" name="economist" value="{{ query }}" onclick=""> The Economist<br>
+			<input type="checkbox" id="time" name="time" value="{{ query }}" onclick=""> Time
+			<input type="checkbox" id="fivethirtyeight" name="fivethirtyeight" value="{{ query }}" onclick=""> 538
+			<input type="checkbox" id="nytimes" name="nytimes" value="{{ query }}" onclick=""> New York Times<br>
+			<input type="checkbox" id="espn" name="espn" value="{{ query }}" onclick=""> ESPN
+			<input type="checkbox" id="onion" name="onion" value="{{ query }}" onclick=""> The Onion<br>
+
+			<h2>Procedures</h2>			
+			<input type="checkbox" id="classify" name="classify" value="{{ query }}" onclick="">Subjectivity vs. Objectivity <br>
+			<input type="checkbox" id="polarity" name="polarity" value="{{ query }}" onclick=""> Text Polarity <br><br>
+			<input type="submit" value="Analyze" onclick="javascript: form.action='/analyze/';">
 		</form>
-	
-	</h2>
+	</div>	
 
     <div ng-hide="">
 		{% if results %}
@@ -65,75 +88,9 @@
 			</tr>
 			{% endfor %}
 		{% endif %}
+		</table>
 	</div>
-	<!--
-	<div>
-		{% if results_price_sorted %}
-		<table style="padding: 5px; font-size:150%" id="Products">
-			
-			<tr style="font: bold"> 
-				<th> Product ID </th>
-				<th> Product Description </th>
-				<th> Product Price </th>
-				<th> Product Active </th>
-				<th> Product Stock Quantity </th>
-				<th> Supplys </th>
-				<th> Order </th>
-				<th> Contains </th>
-				<th> Product Name </th>
-			</tr>
-			{% for p in results_price_sorted %}
-			<tr >
-				
-				<td> {{ p.product_id }}</td>
-				<td> {{ p.product_description }} </td>
-				<td style="text-align: right"> $ {{ p.product_price }} </td>
-				<td> {{ p.product_active  }}</td>
-				<td> {{ p.product_stock_quantity }} </td>
-				<td> {{ p.supplys }} </td>
-				<td> {{ p.order }} </td>
-				<td> {{ p.contains }} </td>
-				<td> {{ p.product_name }} </td>
-
-			</tr>
-			{% endfor %}
-		{% endif %}
-	</div>
-	-->
-		<!-- this is a working table
-
-	</table>	
-	<table style="padding: 5px; font-size:150%" id="Products" >
-		
-		<tr style="font: bold"> 
-			<th> Product ID </th>
-			<th> Product Description </th>
-			<th> Product Price </th>
-			<th> Product Active </th>
-			<th> Product Stock Quantity </th>
-			<th> Supplys </th>
-			<th> Order </th>
-			<th> Contains </th>
-			<th> Product Name </th>
-		</tr>
-		{% for p in product_list %}
-		<tr >
-			
-			<td> {{ p.product_id }}</td>
-			<td> {{ p.product_description }} </td>
-			<td> {{ p.product_price }} </td>
-			<td> {{ p.product_active  }}</td>
-			<td> {{ p.product_stock_quantity }} </td>
-			<td> {{ p.supplys }} </td>
-			<td> {{ p.order }} </td>
-			<td> {{ p.contains }} </td>
-			<td> {{ p.product_name }} </td>
-
-		</tr>
-		{% endfor %}
-	</table>	
-	-->
-
+	
 
 	</div>
     

@@ -152,3 +152,8 @@ table, td, th{
 #go {
   background-color: blue;
 }
+
+input[type="checkbox"] {
+  width:19px;
+  height:19px;
+}
