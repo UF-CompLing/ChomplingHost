@@ -25,7 +25,7 @@ from nltk import word_tokenize
 def index(request):
 	article_list = Article.objects.order_by('article_id')
 	title_sorted_article_list = Article.objects.order_by('article_title')
-	template = loader.get_template('news.html')
+	template = loader.get_template('ChompLing.html')
 	context = RequestContext(request, {
 		'article_list': article_list,
 		#'price_sorted_product_list': price_sorted_product_list,
