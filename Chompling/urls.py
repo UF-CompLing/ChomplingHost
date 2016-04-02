@@ -21,7 +21,7 @@ urlpatterns = [
 
 # news
 	url(r'',include('news.urls')),
-	url(r'^news/',include('news.urls')),
+	url(r'^news/',views.newshome),
     url(r'^admin/', admin.site.urls),
     url(r'^search/',views.search),
     url(r'^analyze/',views.analyze),
