@@ -32,8 +32,9 @@
 					<input type="text" name="user_name" id="user_name" value="{{ query }}"/>
 					<h2>Enter a Twitter handle</h2>
 					<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>
+					<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet</button>
 					<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet <br>
-					<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet?</button>
+					
 				</form>
 
 				<p id='result'>

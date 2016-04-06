@@ -30,7 +30,7 @@ def getAllTweets(screen_name):
     alltweets = []
 
     # make initial request for most recent tweets (200 is the maximum allowed count)
-    new_tweets = api.user_timeline(screen_name=screen_name, count=200)
+    new_tweets = api.user_timeline(screen_name=screen_name, count=50)
 
     # save most recent tweets
     alltweets.extend(new_tweets)
@@ -38,20 +38,26 @@ def getAllTweets(screen_name):
     # save the id of the oldest tweet less one
     oldest = alltweets[-1].id - 1
 
+    # hail mary fubar
+    tweet_count = 0
+
     # keep grabbing tweets until there are no tweets left to grab
-    while len(new_tweets) > 0:
-        print "getting tweets before %s" % (oldest)
+    #while len(new_tweets) > 0 & tweet_count < 100:
+    #    print "getting tweets before %s" % (oldest)
 
         # all subsiquent requests use the max_id param to prevent duplicates
-        new_tweets = api.user_timeline(screen_name=screen_name, count=200, max_id=oldest)
+    #    new_tweets = api.user_timeline(screen_name=screen_name, count=50, max_id=oldest)
 
         # save most recent tweets
-        alltweets.extend(new_tweets)
+    #    alltweets.extend(new_tweets)
 
         # update the id of the oldest tweet less one
-        oldest = alltweets[-1].id - 1
+    #    oldest = alltweets[-1].id - 1
+	
+	# increment tweet count
+	#tweet_count += 1
 
-        print "...%s tweets downloaded so far" % (len(alltweets))
+        #print "...%s tweets downloaded so far" % min(len(alltweets),100)
 
     # transform the tweepy tweets into a 2D array that will populate the csv
     outtweets = [[tweet.created_at, tweet.text.encode("utf-8")] for tweet in alltweets]

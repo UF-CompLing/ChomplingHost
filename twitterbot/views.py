@@ -36,14 +36,14 @@ def twitterbot(request):
 	except ValueError:
 		twitter_handle = None
 		results = None
-
-	if send_tweet:
-		send_tweet = True
-	else:
+	
+	if send_tweet == None:
 		send_tweet = False
+	else:
+		send_tweet = True
 
 	if twitter_handle:
-		results = twitterbot_main(twitter_handle,user_name,send_tweet)
+		results = twitterbot_main(twitter_handle=twitter_handle,user_name=user_name,send_tweet=send_tweet)
 	else:
 		results = "Please enter a twitter handle"
 	context = RequestContext(request)
@@ -54,7 +54,7 @@ def ajax(request):
 	return "hey!"
 
 
-def twitterbot_main(twitter_handle,user_name=None,send_tweet=False):
+def twitterbot_main(twitter_handle,user_name,send_tweet):
 	print 'starting sentence generation'
 
 	try:
@@ -71,18 +71,19 @@ def twitterbot_main(twitter_handle,user_name=None,send_tweet=False):
 		sentence = thinkOfASentence(twitter_handle)
 	except:
 		sentence = twitter_handle + " is not valid. Please enter valid Twitter handle"
-
-	# Tweet if flag is checked	
-	if send_tweet == True:
-		print "would have tweeted this\n\n\n"
-		tweet(sentence) # tweet it
-
+	print(str(send_tweet))
+	
 	# Build visible output
 	if user_name:
 		sentence = str(user_name) + " looked up " + str(twitter_handle) + " and created: \n" + sentence
 	else:
 		sentence = "Chompling_Bot looked up " + str(twitter_handle) + " and created: \n" + sentence
 	
+	# Tweet if flag is checked	
+	if send_tweet == True:
+		print "would have tweeted this\n\n\n"
+		tweet(sentence) # tweet it
+
 	print 'done generating sentence'
 
 	return sentence
