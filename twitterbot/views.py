@@ -32,6 +32,8 @@ def twitterbot(request):
 
 	try:
 		twitter_handle = str(twitter_handle)
+		if twitter_handle[0] == "@":
+			twitter_handle = twitter_handle[1:len(twitter_handle)]
 		print(twitter_handle + "\n\n\n")
 	except ValueError:
 		twitter_handle = None
@@ -82,7 +84,7 @@ def twitterbot_main(twitter_handle,user_name,send_tweet):
 	# Tweet if flag is checked	
 	if send_tweet == True:
 		print "would have tweeted this\n\n\n"
-		tweet(sentence) # tweet it
+		tweet(sentence[0:140]) # tweet it
 
 	print 'done generating sentence'
 

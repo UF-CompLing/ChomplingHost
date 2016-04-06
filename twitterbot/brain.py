@@ -33,7 +33,10 @@ def thinkOfASentence(screen_name):
     sentence += addWord
     previousWord = addWord
 
-    for x in range(0,10):
+    while True:
+        if len(sentence) > 80 and sentence[-1] == ".": 
+            print 'Setence Generated Fully'
+            return sentence
         try:
             addWord = random.choice(markov['data'][previousWord].keys())
             sentence += ' ' + addWord
@@ -44,7 +47,6 @@ def thinkOfASentence(screen_name):
             # try again
             return thinkOfASentence(screen_name)
 
-    print 'Setence Generated Fully'
     return sentence
 
 
