@@ -57,13 +57,15 @@
 						
 					</form>
 
-					<div class="jumbotron" id="results-box">
-						<p id='result'>
-							{% if results %}
-							{{ results}}
-							{% endif %}
-						</p>
-					</div>
+					{% if results %}
+						<div class="jumbotron" id="results-box">
+							<p id='result'>
+								{% if results %}
+								{{ results}}
+								{% endif %}
+							</p>
+						</div>
+					{% endif }
 				</div>
 				
 			</div>
