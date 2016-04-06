@@ -8,17 +8,22 @@
 	src: url("../fonts/Helvetica-Bold.otf") format("opentype");
 }
 
+
+@font-face {
+	font-family: 'Mock-Twitter';
+	src: url("../fonts/mock-twitter.otf") format("opentype");
+}
 p, h2, h3 {
 	font-family: 'Helvetica';
 }
 
 h1 {
 	font-size: 45px;
-	font-family: 'Helvetica-Bold';
+	font-family: 'Mock-Twitter';
 }
 
 body {
-	background: url('../images/congruent_pentagon.png');
+	background: url('../images/restaurant.png');
 }
 
 
@@ -41,7 +46,7 @@ body {
 }
 
 #pre-header {
-	margin-bottom: -15px;
+	margin-bottom: 0px;
 }
 
 #header {
