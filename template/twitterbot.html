@@ -10,6 +10,7 @@
 		
 		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	  	<link rel="stylesheet" type="text/css" href= "/static/css/style.css" media = "screen" />
+	  	<link rel="stylesheet" type="text/css" href= "/static/css/twitterbot_style.css" media = "screen" />
 
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
@@ -25,23 +26,33 @@
 
 		<div class="site__container">
 			<div class="grid__container">
-				<h1> TwitterBot Fun! </h1>
 
-				<form class="form form--login">{%csrf_token%}
-					<h2>Enter your name (optional)</h2>
-					<input type="text" name="user_name" id="user_name" value="{{ query }}"/>
-					<h2>Enter a Twitter handle</h2>
-					<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>
-					<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet</button>
-					<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet <br>
-					
-				</form>
+				<div class="center-block .col-xs-12 .col-md-8">
+					<h1> TwitterBot Fun! </h1>
 
-				<p id='result'>
-					{% if results %}
-					{{ results}}
-					{% endif %}
-				</p>
+					<div id='under_header_break' />
+
+					<form class="form form--login">{%csrf_token%}
+						<h2>Enter your name (optional)</h2>
+						<input type="text" name="user_name" id="user_name" value="{{ query }}"/>
+						
+						<div id='under_name_break'></div>
+						<h2>Enter a Twitter handle</h2>
+						<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>
+												
+						<div id='under_handle_break'></div>
+						<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet</button>
+						<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet <br>
+						<div id='under_button_break'></div>
+						
+					</form>
+
+					<p id='result'>
+						{% if results %}
+						{{ results}}
+						{% endif %}
+					</p>
+				</div>
 				
 			</div>
 		</div>
