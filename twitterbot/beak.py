@@ -1,6 +1,6 @@
 import tweepy, json, csv
 
-secrets_file = open('secrets.json', 'r')
+secrets_file = open('twitterbot/secrets.json', 'r')
 secrets = json.load(secrets_file)
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~

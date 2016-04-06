@@ -9,7 +9,7 @@
 
 import json, tweepy, csv, os
 
-secrets_file = open('secrets.json', 'r')
+secrets_file = open('twitterbot/secrets.json', 'r')
 secrets = json.load(secrets_file)
 
 # Twitter API credentials
@@ -17,9 +17,6 @@ CONSUMER_KEY = secrets["twitter"]["consumer_key"]
 CONSUMER_SECRET = secrets["twitter"]["consumer_secret"]
 ACCESS_KEY = secrets["twitter"]["access_key"]
 ACCESS_SECRET = secrets["twitter"]["access_secret"]
-
-jaden_name = secrets["jaden"]["handle"]
-
 
 def getAllTweets(screen_name):
     # Twitter only allows access to a users most recent 3240 tweets with this method
@@ -60,7 +57,7 @@ def getAllTweets(screen_name):
     outtweets = [[tweet.created_at, tweet.text.encode("utf-8")] for tweet in alltweets]
 
     # write the csv
-    with open('%s_tweets.csv' % screen_name, 'wb') as f:
+    with open('twitterbot/data/%s_tweets.csv' % screen_name, 'wb') as f:
         writer = csv.writer(f)
         writer.writerow(["created_at", "text"])
         writer.writerows(outtweets)
@@ -96,11 +93,11 @@ def sanitize(word):
 
     return word
 
-def makeMarkovChain():
+def makeMarkovChain(screen_name):
 
     print 'making markov chain'
 
-    jadentweets_file = open('officialjaden_tweets.csv', 'r')
+    tweets_file = open(str('twitterbot/data/clean_%s_tweets.csv' % screen_name), 'r')
     # markovJSON = json.loads(request.POST.get('mydata', '{}'))
 
     data = 'data'
@@ -108,13 +105,13 @@ def makeMarkovChain():
     markovData = {data: {}}
     rowCounter = 0
 
-    for row in jadentweets_file:
+    for row in tweets_file:
         print 'loading row ' + str(rowCounter) + '/2002'
 
         tweet = row.split(',')[2] # isolate the tweet
         tweetWords = tweet.split(' ')
 
-        markovJSONfile = open('markov.json', 'r+')
+        markovJSONfile = open(str('twitterbot/data/%s_markov.json' % screen_name), 'w')
 
         previousWord = ''
         for tweetWord in tweetWords:
@@ -145,7 +142,7 @@ def makeMarkovChain():
                 # markovJSONfile.truncate()
 
                 # write to file
-                # json.dump(markovData, markovJSONfile, sort_keys=True, indent=4)
+                    json.dump(markovData, markovJSONfile, sort_keys=True, indent=4)
 
             previousWord = tweetWord
 
@@ -154,43 +151,29 @@ def makeMarkovChain():
     json.dump(markovData, markovJSONfile, sort_keys=True, indent=4)
     markovJSONfile.close()
 
-    jadentweets_file.close()
+    tweets_file.close()
 
     print 'finished, exiting'
 
 
 
 
-def cleanTweets():
-    editedfile = 'editedjadentweets.csv'
+def cleanTweets(screen_name):
 
-    try: # remove file if it exists
-        os.remove(editedfile)
-        print 'removed editedjadentweets file'
-    except OSError:
-        pass
+    # Set working file names
+    raw_file = str('twitterbot/data/%s_tweets.csv' % screen_name)
+    cleanfile = str('twitterbot/data/clean_%s_tweets.csv' % screen_name)
 
+    # Read from raw file, run cleaning functions, print to clean file
+    with open(raw_file,'r') as incsv, open(cleanfile,'w') as outcsv:
+        for row in incsv:
 
-    jadentweets_file = open('officialjaden_tweets.csv', 'r')
-    output = open(editedfile, 'wb')
+            if isLineBreak(row):
+                # don't write this to new file
+                continue
+            elif isRetweet(row):
+                # don't write this either
+                continue
+            else:
+                outcsv.write(row)
 
-    for row in jadentweets_file:
-
-        if isLineBreak(row):
-            # don't write this to new file
-            continue
-        elif isRetweet(row):
-            # don't write this either
-            continue
-        else:
-            output.write(row)
-
-    output.close()
-    jadentweets_file.close()
-
-    # remove old file
-    official_file = 'officialjaden_tweets.csv'
-    os.remove(official_file)
-    os.rename(editedfile, official_file)
-
-    return

@@ -1,10 +1,8 @@
 import json, csv, random
 from twython import Twython
 
-secrets_file = open('secrets.json', 'r')
+secrets_file = open('twitterbot/secrets.json', 'r')
 secrets = json.load(secrets_file)
-
-jadentweets_file = open('officialjaden_tweets.csv', 'r')
 
 CONSUMER_KEY = secrets["twitter"]["consumer_key"]
 CONSUMER_SECRET = secrets["twitter"]["consumer_secret"]
@@ -22,8 +20,10 @@ twython = Twython(app_key=CONSUMER_KEY,
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # data analysis
 
-def thinkOfASentence():
-    markov_file = open('markov.json', 'r')
+def thinkOfASentence(screen_name):
+
+    # Open relevant markov file
+    markov_file = open(str('twitterbot/data/%s_markov.json' % screen_name), 'r')
     markov = json.load(markov_file)
 
     print 'Choosing First Word'
@@ -42,7 +42,7 @@ def thinkOfASentence():
             print 'Key Error'
 
             # try again
-            return thinkOfASentence()
+            return thinkOfASentence(screen_name)
 
     print 'Setence Generated Fully'
     return sentence

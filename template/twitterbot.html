@@ -27,14 +27,21 @@
 			<div class="grid__container">
 				<h1> TwitterBot Fun! </h1>
 
-				<div class="form form--login">{%csrf_token%}
-					<h2>Enter your Twitter handle</h2>
-					<input type="text" name="twitter_handle" id="twitter_handle" value=""/>
-					<button type="submit" value="Search" onclick="javascript: show();">Text</button>
-				</div>
+				<form class="form form--login">{%csrf_token%}
+					<h2>Enter your name (optional)</h2>
+					<input type="text" name="user_name" id="user_name" value="{{ query }}"/>
+					<h2>Enter a Twitter handle</h2>
+					<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>
+					<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet <br>
+					<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet?</button>
+				</form>
 
-				<p id='result'></p>
-
+				<p id='result'>
+					{% if results %}
+					{{ results}}
+					{% endif %}
+				</p>
+				
 			</div>
 		</div>
 

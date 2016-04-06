@@ -116,11 +116,22 @@ from beak import tweet
 
 
 
-print 'starting\n'
 
-while True:
-    sentence = thinkOfASentence() # make wisdom
-    tweet(sentence) # tweet it
-    time.sleep(600) # sleep for ten minutes
 
-print 'loop ended. shouldn\'t happen.\n'
+def twitterbot_main(twitter_handle,user_name=None,send_tweet=False):
+	print 'starting sentence generation'
+
+	sentence, valid = thinkOfASentence(twitter_handle) # make wisdom
+	if send_tweet == True:
+		print "would have tweeted this\n\n\n"
+		#tweet(sentence) # tweet it
+	if user_name:
+		sentence = str(user_name) + " looked up " + str(twitter_handle) + " and created: \n" + sentence
+	else:
+		sentence = "Chompling_Bot looked up " + str(twitter_handle) + " and created: \n" + sentence
+	if valid == False:
+		sentence = "Please enter valid Twitter handle"
+
+	print 'done generating sentence'
+
+	return sentence

@@ -28,6 +28,6 @@ urlpatterns = [
     url(r'^analyze/',views.analyze),
 
 # twitterbot
-    url(r'^twitterbot/', twitterbot_views.index),
+    url(r'^twitterbot/', twitterbot_views.twitterbot),
     url(r'^twitterbot/ajax', twitterbot_views.ajax)
 ]
