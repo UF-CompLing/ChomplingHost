@@ -3,22 +3,81 @@
 	src: url("../fonts/Helvetica.otf") format("opentype");
 }
 
-p, h1, h2, h3 {
+@font-face {
+	font-family: 'Helvetica-Bold';
+	src: url("../fonts/Helvetica-Bold.otf") format("opentype");
+}
+
+p, h2, h3 {
 	font-family: 'Helvetica';
+}
+
+h1 {
+	font-size: 45px;
+	font-family: 'Helvetica-Bold';
+}
+
+body {
+	background: url('../images/congruent_pentagon.png');
+}
+
+
+.site__container {
+	margin: 0 auto;
+	min-width: 300px;
+	width: 75%;
+	padding-top: 30px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border-radius: 10px;
+	background-color: white;
+
+	border: 2px solid;
 }
 
 .grid__container {
 	text-align:center;
+	padding: 30px;
+}
+
+#pre-header {
+	margin-bottom: -15px;
+}
+
+#header {
+}
+
+#clc-logo {
+	padding-bottom: 35px;
 }
 
 #under_name_break {
-	height: 50px;
+	height: 25px;
 }
 
 #under_handle_break {
-	height: 15px;
+	height: 0px;
 }
 
 #under_button_break {
-	height:30px;
+	height: 30px;
 }
+
+#send_tweet {
+	margin-right: 6px;
+}
+
+.input {
+	width: 200px;
+	margin: 0 auto;	
+}
+
+#results-box {
+	border-radius: 5px;
+	border: 1px solid #ccc;
+}
+
+/*#twitter-handle-group {
+	width: 200px;
+	margin: 0 auto;
+}*/

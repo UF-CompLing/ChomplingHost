@@ -28,30 +28,42 @@
 			<div class="grid__container">
 
 				<div class="center-block .col-xs-12 .col-md-8">
-					<h1> TwitterBot Fun! </h1>
+					<h4 id='pre-header'> The Computational Linguistics Club's </h4> 
+					<h1 id="header"> TwitterBot </h1>
 
-					<div id='under_header_break' />
+					<img id="clc-logo" src="../static/images/clc.svg"/>
 
 					<form class="form form--login">{%csrf_token%}
-						<h2>Enter your name (optional)</h2>
-						<input type="text" name="user_name" id="user_name" value="{{ query }}"/>
+						<h3>Enter your name (optional)</h3>
+						
+						<div class="input">
+							<input type="text" class="form-control" name="user_name" id="user_name" value="{{ query }}"/>
+						</div>
 						
 						<div id='under_name_break'></div>
-						<h2>Enter a Twitter handle</h2>
-						<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>
+						<h3>Enter a Twitter handle</h3>
+						<p>(We will generate a sentence from this user's past tweets)</p>
+						<div class="input-group input" id="twitter-handle-group">
+							<span class="input-group-addon" id="basic-addon1">@</span>
+  							<input type="text" name="twitter_handle" id="twitter_handle" value = "{{ query }}" class="form-control"/>
+  						</div>
+						<!--<input type="text" name="twitter_handle" id="twitter_handle" value="{{ query }}"/>-->
 												
 						<div id='under_handle_break'></div>
-						<button type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet</button>
-						<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet <br>
+						<input type="checkbox" id="send_tweet" name="send_tweet" value="{{ query }}" onclick=""> Send Tweet 
+						<p></p>
+						<button class="btn btn-success" type="submit" value="Twitterbot" onclick="javascript: form.action='/twitterbot/';">Tweet</button>
 						<div id='under_button_break'></div>
 						
 					</form>
 
-					<p id='result'>
-						{% if results %}
-						{{ results}}
-						{% endif %}
-					</p>
+					<div class="jumbotron" id="results-box">
+						<p id='result'>
+							{% if results %}
+							{{ results}}
+							{% endif %}
+						</p>
+					</div>
 				</div>
 				
 			</div>
