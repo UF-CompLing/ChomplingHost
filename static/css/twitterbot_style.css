@@ -18,19 +18,21 @@ h1 {
 }
 
 body {
-	background: url('../images/concrete_seamless.png');
+	background: url('../images/congruent_pentagon.png');
 }
 
 
 .site__container {
 	margin: 0 auto;
 	min-width: 300px;
-	width: 45%;
+	width: 75%;
 	padding-top: 30px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	border-radius: 10px;
 	background-color: white;
+
+	border: 2px solid;
 }
 
 .grid__container {
@@ -68,6 +70,11 @@ body {
 .input {
 	width: 200px;
 	margin: 0 auto;	
+}
+
+#results-box {
+	border-radius: 5px;
+	border: 1px solid #ccc;
 }
 
 /*#twitter-handle-group {
