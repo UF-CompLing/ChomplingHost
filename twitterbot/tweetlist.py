@@ -148,8 +148,7 @@ def makeMarkovChain(screen_name):
                 # markovJSONfile.truncate()
 
                 # write to file
-                    json.dump(markovData, markovJSONfile, sort_keys=True, indent=4)
-
+            
             previousWord = tweetWord
 
         rowCounter = rowCounter + 1
