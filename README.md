@@ -1,4 +1,4 @@
-# Sentiment Analysis (updated 23 February 2016)
+# Chompling Host Old (updated 23 February 2016)
 
 This is the repository for all the work done by the UF Computational Linguistics Club Sentiment Analysis Group
 
