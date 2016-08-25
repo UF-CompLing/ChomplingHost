@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 from news import views
-from twitterbot import views as twitterbot_views
+#from twitterbot import views as twitterbot_views
 
 urlpatterns = [
 
@@ -28,6 +28,6 @@ urlpatterns = [
     url(r'^analyze/',views.analyze),
 
 # twitterbot
-    url(r'^twitterbot/', twitterbot_views.twitterbot),
-    url(r'^twitterbot/ajax', twitterbot_views.ajax)
+#    url(r'^twitterbot/', twitterbot_views.twitterbot),
+#    url(r'^twitterbot/ajax', twitterbot_views.ajax)
 ]
